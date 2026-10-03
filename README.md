@@ -4,20 +4,19 @@
 
 <div align="center">
 
-<!-- Animated Space / Particle Background -->
+<!-- ========================= HERO ========================== -->
+
 <img
-  src="./assets/animated-space.gif"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:9333EA&height=280&section=header&text=PRIYANSHU%20PATEL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=60&descSize=18&animation=fadeIn"
   width="100%"
-  alt="Animated Space Background"
+  alt="Priyanshu Patel"
 />
 
 <br/>
 
-<!-- Typing Animation -->
-
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Backend+%26+Full-Stack+Developer;Building+Production-Ready+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Backend+%26+Full-Stack+Developer;Building+Production-Ready+Applications"
     alt="Typing SVG"
   />
 </a>
@@ -25,7 +24,7 @@
 <br/>
 <br/>
 
-<!-- Social Links -->
+<!-- ======================= SOCIALS ========================= -->
 
 <a href="https://github.com/priyanshupatel288">
   <img
@@ -58,7 +57,7 @@
 <br/>
 <br/>
 
-<!-- Profile Views -->
+<!-- ===================== PROFILE VIEWS ===================== -->
 
 <img
   src="https://visitor-badge.laobi.icu/badge?page_id=priyanshupatel288.priyanshupatel288&style=for-the-badge&color=7c3aed"
@@ -69,9 +68,7 @@
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                         DIVIDER                           -->
-<!-- ========================================================= -->
+<!-- ======================= DIVIDER ========================= -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"
@@ -79,6 +76,7 @@
 />
 
 <br/>
+
 
 <!-- ========================================================= -->
 <!--                       WHO AM I                            -->
@@ -92,7 +90,8 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+
+<td width="100%" valign="top">
 
 ### 👨‍💻 Software Developer
 
@@ -114,19 +113,11 @@ My development experience includes designing APIs, database-driven applications,
 
 </td>
 
-<td width="45%" align="center">
-
-<img
-  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
-
-</td>
 </tr>
 </table>
 
 <br/>
+
 
 <!-- ========================================================= -->
 <!--                    ENGINEERING PROFILE                    -->
@@ -138,23 +129,50 @@ My development experience includes designing APIs, database-driven applications,
 
 </div>
 
-| Area | Experience |
-|---|---|
-| 👨‍💻 Role | Software Developer |
-| ☕ Primary Backend | Java, Spring Boot |
-| 🌐 API Development | REST APIs |
-| 🗄️ Databases | MySQL, MongoDB |
-| ⚛️ Frontend | React, Next.js |
-| 🟢 JavaScript Backend | Node.js, Express.js |
-| 🐘 Additional Backend | PHP |
-| 🐳 DevOps | Docker, AWS |
-| 🔧 Development Tools | Git, GitHub, Postman |
-| 💻 IDEs | IntelliJ IDEA, VS Code |
+<table align="center">
+
+<tr>
+<td align="center"><b>👨‍💻 Role</b></td>
+<td>Software Developer</td>
+</tr>
+
+<tr>
+<td align="center"><b>☕ Backend</b></td>
+<td>Java • Spring Boot • REST APIs</td>
+</tr>
+
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>MySQL • MongoDB</td>
+</tr>
+
+<tr>
+<td align="center"><b>🌐 Full Stack</b></td>
+<td>React • Next.js • Node.js • Express.js</td>
+</tr>
+
+<tr>
+<td align="center"><b>🐘 Additional</b></td>
+<td>PHP • JavaScript • TypeScript</td>
+</tr>
+
+<tr>
+<td align="center"><b>🐳 DevOps</b></td>
+<td>Docker • AWS</td>
+</tr>
+
+<tr>
+<td align="center"><b>🔧 Tools</b></td>
+<td>Git • GitHub • Postman • IntelliJ IDEA • VS Code</td>
+</tr>
+
+</table>
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                     TECH STACK                            -->
+<!--                    TECHNOLOGY STACK                       -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -163,7 +181,7 @@ My development experience includes designing APIs, database-driven applications,
 
 </div>
 
-### ☕ Backend & Java
+### ☕ Java & Backend
 
 <p align="center">
 
@@ -174,8 +192,11 @@ My development experience includes designing APIs, database-driven applications,
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
 <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 </p>
@@ -193,6 +214,7 @@ My development experience includes designing APIs, database-driven applications,
 <p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </p>
@@ -210,10 +232,15 @@ My development experience includes designing APIs, database-driven applications,
 <p align="center">
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </p>
@@ -231,24 +258,20 @@ My development experience includes designing APIs, database-driven applications,
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 </p>
 
 ---
 
-### 🐘 Additional Technologies
+### 🐘 PHP
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=php" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </p>
 
@@ -265,17 +288,22 @@ My development experience includes designing APIs, database-driven applications,
 <p align="center">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </p>
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                    PROFESSIONAL EXPERIENCE                -->
+<!--                 PROFESSIONAL EXPERIENCE                   -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -313,6 +341,7 @@ My development experience includes designing APIs, database-driven applications,
 
 <br/>
 
+
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                       -->
 <!-- ========================================================= -->
@@ -325,11 +354,11 @@ My development experience includes designing APIs, database-driven applications,
 
 ### 💰 Accounting SaaS / RoboBooks
 
-**Technology:** Java • Spring Boot • REST APIs • MySQL
+**Java • Spring Boot • REST APIs • MySQL**
 
 A business-oriented accounting SaaS platform designed around financial and accounting workflows.
 
-**Key areas:**
+**Key Areas**
 
 - Accounting workflows
 - Business transactions
@@ -343,11 +372,11 @@ A business-oriented accounting SaaS platform designed around financial and accou
 
 ### 🏫 Multi-School Payroll System
 
-**Technology:** PHP • MySQL • JavaScript
+**PHP • MySQL • JavaScript**
 
 A payroll management system designed to support multiple schools and employee payroll workflows.
 
-**Key areas:**
+**Key Areas**
 
 - Employee management
 - Payroll processing
@@ -360,11 +389,11 @@ A payroll management system designed to support multiple schools and employee pa
 
 ### 🏢 ERP System
 
-**Technology:** Java • Spring Boot • MySQL • REST APIs
+**Java • Spring Boot • MySQL • REST APIs**
 
 A business management platform consisting of multiple interconnected modules.
 
-**Key areas:**
+**Key Areas**
 
 - Business workflows
 - User management
@@ -377,11 +406,11 @@ A business management platform consisting of multiple interconnected modules.
 
 ### 💼 CRM Platform
 
-**Technology:** Java • Spring Boot • MySQL • REST APIs
+**Java • Spring Boot • MySQL • REST APIs**
 
 A customer relationship management system for managing business interactions and customer-related workflows.
 
-**Key areas:**
+**Key Areas**
 
 - Customer management
 - Lead management
@@ -394,11 +423,11 @@ A customer relationship management system for managing business interactions and
 
 ### 📚 Question Paper Generator
 
-**Technology:** Java • Spring Boot • MySQL • REST APIs
+**Java • Spring Boot • MySQL • REST APIs**
 
 A platform designed to generate question papers based on configurable requirements.
 
-**Key areas:**
+**Key Areas**
 
 - Question management
 - Subject/category management
@@ -411,11 +440,11 @@ A platform designed to generate question papers based on configurable requiremen
 
 ### 🎓 Learning Management System
 
-**Technology:** Java • Spring Boot • React • MySQL
+**Java • Spring Boot • React • MySQL**
 
 An educational platform designed around learning and course management workflows.
 
-**Key areas:**
+**Key Areas**
 
 - Course management
 - Student management
@@ -428,11 +457,11 @@ An educational platform designed around learning and course management workflows
 
 ### 🛒 Poetry — E-Commerce Platform
 
-**Technology:** React • Node.js • Express.js • MongoDB
+**React • Node.js • Express.js • MongoDB**
 
 An e-commerce application designed around product discovery and online shopping workflows.
 
-**Key areas:**
+**Key Areas**
 
 - Product management
 - Shopping workflows
@@ -445,11 +474,11 @@ An e-commerce application designed around product discovery and online shopping 
 
 ### 🛍️ E-Commerce Platform
 
-**Technology:** React • Node.js • Express.js • MongoDB
+**React • Node.js • Express.js • MongoDB**
 
 A full-stack e-commerce application with frontend, backend and database integration.
 
-**Key areas:**
+**Key Areas**
 
 - Product management
 - User authentication
@@ -460,8 +489,9 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                    GITHUB ANALYTICS                        -->
+<!--                     GITHUB ANALYTICS                       -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -482,7 +512,8 @@ A full-stack e-commerce application with frontend, backend and database integrat
   alt="Top Languages"
 />
 
-<br/><br/>
+<br/>
+<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=priyanshupatel288&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=A855F7"
@@ -494,8 +525,9 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                   CONTRIBUTION GRAPH                       -->
+<!--                 CONTRIBUTION ACTIVITY                     -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -504,15 +536,21 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <br/>
 
+<!-- GitHub Contribution Hashmap -->
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel288&bg_color=0D1117&color=A855F7&line=7C3AED&point=F97316&area=true&hide_border=true"
+  src="https://ghchart.rshah.org/A855F7/priyanshupatel288"
   width="95%"
-  alt="Contribution Graph"
+  alt="GitHub Contribution Heatmap"
 />
+
+<br/>
+<br/>
 
 </div>
 
 <br/>
+
 
 <!-- ========================================================= -->
 <!--                     GITHUB TROPHIES                        -->
@@ -534,8 +572,9 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <br/>
 
+
 <!-- ========================================================= -->
-<!--                       CODING PROFILES                      -->
+<!--                     CODING PROFILES                        -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -545,22 +584,27 @@ A full-stack e-commerce application with frontend, backend and database integrat
 <br/>
 
 <a href="https://leetcode.com/u/priyanshu6387/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-priyanshu6387-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode"
-  />
+
+<img
+  src="https://img.shields.io/badge/LeetCode-priyanshu6387-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="LeetCode"
+/>
+
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/priyanshu6387">
-  <img
-    src="https://img.shields.io/badge/GeeksforGeeks-priyanshu6387-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-    alt="GeeksforGeeks"
-  />
+
+<img
+  src="https://img.shields.io/badge/GeeksforGeeks-priyanshu6387-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+  alt="GeeksforGeeks"
+/>
+
 </a>
 
 </div>
 
 <br/>
+
 
 <!-- ========================================================= -->
 <!--                  ENGINEERING CAPABILITIES                  -->
@@ -573,7 +617,9 @@ A full-stack e-commerce application with frontend, backend and database integrat
 </div>
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### Backend Engineering
@@ -604,9 +650,11 @@ A full-stack e-commerce application with frontend, backend and database integrat
 - Database-backed applications
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### Database Engineering
@@ -635,10 +683,13 @@ A full-stack e-commerce application with frontend, backend and database integrat
 - Production-oriented development
 
 </td>
+
 </tr>
+
 </table>
 
 <br/>
+
 
 <!-- ========================================================= -->
 <!--                        CONNECT                             -->
@@ -653,29 +704,36 @@ I'm open to connecting with developers, engineers, recruiters and technology ent
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-patel28/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+
 </a>
 
 <a href="https://github.com/priyanshupatel288">
-  <img
-    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+
+<img
+  src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+
 </a>
 
 <a href="https://leetcode.com/u/priyanshu6387/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode"
-  />
+
+<img
+  src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="LeetCode"
+/>
+
 </a>
 
 </div>
 
 <br/>
+
 
 <!-- ========================================================= -->
 <!--                         FOOTER                             -->
@@ -684,8 +742,9 @@ I'm open to connecting with developers, engineers, recruiters and technology ent
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4C1D95,100:0D1117&height=140&section=footer"
   width="100%"
+  alt="Footer"
 />
 
 ### ✨ Building systems. Solving problems. Shipping software.

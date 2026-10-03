@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-<!-- ======================= SOCIAL LINKS ==================== -->
+<!-- ======================= SOCIALS ========================= -->
 
 <a href="https://github.com/priyanshupatel288">
   <img
@@ -85,51 +85,44 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=WHO%20AM%20I%3F&fontSize=42&fontColor=A855F7&fontAlignY=48&desc=SOFTWARE%20DEVELOPER&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=WHO%20AM%20I%3F&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=BUILDING%20SYSTEMS%20THAT%20SCALE&descSize=13&descColor=A855F7&descAlignY=78"
   width="100%"
   alt="WHO AM I"
-/>
-
-<br/>
-
-<p align="center">
-
-I'm a <b>Software Developer</b> focused on <b>Java backend</b> and
-<b>full-stack engineering</b> — building scalable, production-ready
-applications with <b>Spring Boot, REST APIs and MySQL</b>.
-
-</p>
-
-<br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"
-  width="90%"
-  alt="Divider"
-/>
-
-<br/>
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/sachin-iam/sachin-iam/main/assets/blackhole.svg"
-  width="75%"
-  alt="Black Hole"
 />
 
 </div>
 
 <br/>
 
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+### 👨🏻‍💻 Software Developer
+
+> **Java Backend & Full-Stack Developer** building scalable, production-ready applications.
+
+I specialize in **Java, Spring Boot, REST APIs and MySQL**, with hands-on experience across **React, Next.js, Node.js, MongoDB and PHP**.
+
+I have contributed to **ERP, Accounting SaaS, Payroll, CRM, LMS and E-Commerce** systems.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
 
 <!-- ========================================================= -->
-<!--                  ENGINEERING PROFILE                      -->
+<!--                    ENGINEERING PROFILE                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=ENGINEERING%20PROFILE&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=MY%20TECHNICAL%20IDENTITY&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=ENGINEERING%20PROFILE&fontSize=32&fontColor=A855F7&fontAlignY=55"
   width="100%"
   alt="Engineering Profile"
 />
@@ -146,7 +139,7 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 </tr>
 
 <tr>
-<td align="center"><b>☕ Primary Backend</b></td>
+<td align="center"><b>☕ Backend</b></td>
 <td>Java • Spring Boot • REST APIs</td>
 </tr>
 
@@ -171,7 +164,7 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 </tr>
 
 <tr>
-<td align="center"><b>🔧 Development Tools</b></td>
+<td align="center"><b>🔧 Tools</b></td>
 <td>Git • GitHub • Postman • IntelliJ IDEA • VS Code</td>
 </tr>
 
@@ -187,7 +180,7 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=TECHNOLOGY%20STACK&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=TOOLS%20%26%20TECHNOLOGIES&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=TECHNOLOGY%20STACK&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=TOOLS%20%26%20TECHNOLOGIES&descSize=12&descColor=9CA3AF&descAlignY=82"
   width="100%"
   alt="Technology Stack"
 />
@@ -206,21 +199,13 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 
 <p align="center">
 
-<img
-  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
 </p>
 
@@ -236,13 +221,9 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 
 <p align="center">
 
-<img
-  src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </p>
 
@@ -258,29 +239,17 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 
 <p align="center">
 
-<img
-  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<img
-  src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </p>
 
@@ -296,17 +265,11 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 
 <p align="center">
 
-<img
-  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img
-  src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 </p>
 
@@ -322,11 +285,25 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 
 ---
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps & Development Tools
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,idea,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </p>
 
@@ -340,7 +317,7 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=PROFESSIONAL%20EXPERIENCE&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=REAL-WORLD%20SOFTWARE%20DEVELOPMENT&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=PROFESSIONAL%20EXPERIENCE&fontSize=34&fontColor=A855F7&fontAlignY=55"
   width="100%"
   alt="Professional Experience"
 />
@@ -361,7 +338,7 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 - Working with MySQL and MongoDB.
 - Developing and consuming RESTful APIs.
 - Working with Git/GitHub based development workflows.
-- Contributing to client-facing software projects.
+- Contributing to multiple client-facing software projects.
 
 ---
 
@@ -386,7 +363,7 @@ applications with <b>Spring Boot, REST APIs and MySQL</b>.
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=FEATURED%20PROJECTS&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=REAL-WORLD%20APPLICATIONS&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=FEATURED%20PROJECTS&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=REAL-WORLD%20APPLICATIONS&descSize=12&descColor=9CA3AF&descAlignY=82"
   width="100%"
   alt="Featured Projects"
 />
@@ -540,7 +517,7 @@ Full-stack e-commerce application with frontend, backend and database integratio
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=GITHUB%20ANALYTICS&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=CODE%20%7C%20CONTRIBUTIONS%20%7C%20ACTIVITY&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=GITHUB%20ANALYTICS&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=CODE%20%7C%20CONTRIBUTIONS%20%7C%20ACTIVITY&descSize=12&descColor=9CA3AF&descAlignY=82"
   width="100%"
   alt="GitHub Analytics"
 />
@@ -581,7 +558,7 @@ Full-stack e-commerce application with frontend, backend and database integratio
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=CONTRIBUTION%20ACTIVITY&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=CONSISTENCY%20IN%20CODE&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=CONTRIBUTION%20ACTIVITY&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=CONSISTENCY%20IN%20CODE&descSize=12&descColor=9CA3AF&descAlignY=82"
   width="100%"
   alt="Contribution Activity"
 />
@@ -606,7 +583,7 @@ Full-stack e-commerce application with frontend, backend and database integratio
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=GITHUB%20TROPHIES&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=OPEN%20SOURCE%20%26%20DEVELOPMENT&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=GITHUB%20TROPHIES&fontSize=34&fontColor=A855F7&fontAlignY=55"
   width="100%"
   alt="GitHub Trophies"
 />
@@ -631,12 +608,11 @@ Full-stack e-commerce application with frontend, backend and database integratio
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=CODING%20PROFILES&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=PROBLEM%20SOLVING%20%26%20PRACTICE&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=CODING%20PROFILES&fontSize=34&fontColor=A855F7&fontAlignY=55"
   width="100%"
   alt="Coding Profiles"
 />
 
-<br/>
 <br/>
 
 <a href="https://leetcode.com/u/priyanshu6387/">
@@ -669,7 +645,7 @@ Full-stack e-commerce application with frontend, backend and database integratio
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=ENGINEERING%20CAPABILITIES&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=HOW%20I%20BUILD%20SOFTWARE&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=ENGINEERING%20CAPABILITIES&fontSize=34&fontColor=A855F7&fontAlignY=55"
   width="100%"
   alt="Engineering Capabilities"
 />
@@ -688,12 +664,13 @@ Full-stack e-commerce application with frontend, backend and database integratio
 
 - REST API development
 - Spring Boot applications
-- Business logic
+- Business logic implementation
 - Authentication & authorization
 - Database integration
 - API integration
 - CRUD architecture
 - Exception handling
+- Application workflows
 
 </td>
 
@@ -726,7 +703,7 @@ Full-stack e-commerce application with frontend, backend and database integratio
 - CRUD operations
 - Relational data modeling
 - Query development
-- Database integration
+- Application database integration
 
 </td>
 
@@ -753,13 +730,13 @@ Full-stack e-commerce application with frontend, backend and database integratio
 
 
 <!-- ========================================================= -->
-<!--                        LET'S CONNECT                       -->
+<!--                        CONNECT                             -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=LET'S%20CONNECT&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=BUILD%20%7C%20COLLABORATE%20%7C%20CREATE&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=LET'S%20CONNECT&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=BUILD%20%7C%20COLLABORATE%20%7C%20CREATE&descSize=12&descColor=9CA3AF&descAlignY=82"
   width="100%"
   alt="Let's Connect"
 />

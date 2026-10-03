@@ -24,8 +24,6 @@
 <br/>
 <br/>
 
-<!-- ======================= SOCIALS ========================= -->
-
 <a href="https://github.com/priyanshupatel288">
   <img
     src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
@@ -57,12 +55,16 @@
 <br/>
 <br/>
 
-<!-- ===================== PROFILE VIEWS ===================== -->
+<!-- PROFILE VIEWS -->
 
-<img
-  src="https://visitor-badge.laobi.icu/badge?page_id=priyanshupatel288.priyanshupatel288&style=for-the-badge&color=7c3aed"
-  alt="Profile Views"
-/>
+<div align="center">
+
+<a href="https://github.com/priyanshupatel288">
+  <img
+    src="https://visitor-badge.laobi.icu/badge?page_id=priyanshupatel288.priyanshupatel288&left_text=%F0%9F%91%81%20PROFILE%20VIEWS&left_color=%23525252&right_color=%237C3AED&radius=3&height=28"
+    alt="Profile Views"
+  />
+</a>
 
 </div>
 

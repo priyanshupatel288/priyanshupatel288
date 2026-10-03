@@ -1,6 +1,6 @@
 <!-- ================================================================ -->
 <!--                    PRIYANSHU PATEL · README                     -->
-<!--        Theme: Deep Space  (#0d1117 · #7c3aed · #ec4899 · #f97316) -->
+<!--        Deep Space / Purple / Pink / Orange Theme                -->
 <!-- ================================================================ -->
 
 <div align="center">
@@ -8,53 +8,59 @@
 <!-- ============================ HERO ============================ -->
 
 <img
-  src="./assets/hero.svg"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:17103b,75:7c3aed,100:ec4899&height=260&section=header&text=PRIYANSHU%20PATEL&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20BACKEND&descAlignY=61&descSize=16&animation=fadeIn"
   width="100%"
   alt="Priyanshu Patel"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Building+production-ready+backend+systems;Java+%2F+Spring+Boot+%2F+REST+APIs;ERP+%2F+CRM+%2F+Payroll+%2F+Accounting+SaaS;MySQL+%2F+MongoDB+%2F+Docker+%2F+AWS"
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Building+production-ready+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs;Full-Stack+Software+Developer;ERP+%7C+CRM+%7C+Payroll+%7C+Accounting+SaaS;MySQL+%7C+MongoDB+%7C+Docker+%7C+AWS"
+  alt="Typing animation"
 />
 
 <br/><br/>
 
+<!-- ========================= SOCIAL LINKS ========================= -->
+
 <a href="https://www.linkedin.com/in/priyanshu-patel28/">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+<img
+  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="https://github.com/priyanshupatel288">
-  <img
-    src="https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=white"
-  />
+<img
+  src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="https://leetcode.com/u/priyanshu6387/">
-  <img
-    src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-  />
+<img
+  src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="LeetCode"
+/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/priyanshu6387">
-  <img
-    src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-  />
+<img
+  src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+  alt="GeeksforGeeks"
+/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=priyanshupatel288&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"
-  alt="Profile views"
+  alt="Profile Views"
 />
 
 <br/><br/>
 
 <img
-  src="./assets/divider.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:f97316&height=4&section=header&width=100%"
   width="100%"
   alt="Divider"
 />
@@ -63,14 +69,14 @@
 
 <br/>
 
-<!-- ============================ ABOUT ============================ -->
+<!-- ============================ WHO AM I ============================ -->
 
 <div align="center">
 
 <img
-  src="./assets/title-about.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=WHO%20AM%20I%3F&fontSize=38&fontColor=C084FC&fontAlignY=55"
   width="100%"
-  alt="Who am I?"
+  alt="Who Am I"
 />
 
 </div>
@@ -78,46 +84,63 @@
 <br/>
 
 <p align="center">
-I'm a <strong>Software Developer</strong> who builds the backend of
-real business software — the APIs, databases and workflows that
-accounting, payroll, ERP and CRM teams depend on every day.
+
+I'm a <strong>Software Developer</strong> with professional experience
+building real-world web applications, backend systems and
+<strong>RESTful APIs</strong>.
+
 </p>
 
 <p align="center">
-My main stack is <strong>Java + Spring Boot</strong>, and I also ship with
-<strong>Node.js, PHP, React and Next.js</strong> on top of
-<strong>MySQL</strong> and <strong>MongoDB</strong>.
+
+I have hands-on experience with
+<strong>Java, Spring Boot, Node.js, PHP, React and Next.js</strong>,
+along with database-driven applications using
+<strong>MySQL and MongoDB</strong>.
+
 </p>
 
 <p align="center">
-I've worked across <strong>Accounting, ERP, Payroll, CRM, E-commerce,
-LMS and EdTech</strong> products, working across features from
-database schema and REST API design through frontend integration,
-authentication, deployment and production support.
+
+I have worked on applications across
+<strong>Accounting, ERP, Payroll, CRM, E-commerce, LMS and EdTech</strong>
+domains.
+
+</p>
+
+<p align="center">
+
+My experience covers the development lifecycle from
+<strong>database design and backend development to REST API development,
+frontend integration, authentication, testing, deployment and
+production support.</strong>
+
 </p>
 
 <br/>
 
+<!-- ========================= VISUAL BREAK ========================= -->
+
 <div align="center">
 
 <img
-  src="./assets/blackhole.svg"
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:17103b,70:7c3aed,100:ec4899&height=220&section=header&text=BUILD%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20DELIVER&fontSize=27&fontColor=ffffff&animation=fadeIn"
   width="100%"
-  alt="Black hole"
+  alt="Build Deploy Deliver"
 />
 
 </div>
 
 <br/>
 
-<!-- ============================ STACK ============================ -->
+<!-- ========================= EXPERIENCE SNAPSHOT ========================= -->
 
 <div align="center">
 
 <img
-  src="./assets/title-stack.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:f97316&height=100&section=header&text=ENGINEERING%20PROFILE&fontSize=32&fontColor=ffffff&fontAlignY=55"
   width="100%"
-  alt="Tech stack"
+  alt="Engineering Profile"
 />
 
 </div>
@@ -125,153 +148,120 @@ authentication, deployment and production support.
 <br/>
 
 <div align="center">
+
+| BACKEND | APPLICATIONS | DATABASES |
+|:---:|:---:|:---:|
+| Java / Spring Boot | Accounting | MySQL |
+| REST APIs | ERP / CRM | MongoDB |
+| Node.js / PHP | Payroll | |
+| API Architecture | E-commerce / EdTech | |
+
+</div>
+
+<br/>
+
+<!-- ============================ TECH STACK ============================ -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=TECH%20STACK&fontSize=38&fontColor=C084FC&fontAlignY=55"
+  width="100%"
+  alt="Tech Stack"
+/>
+
+</div>
+
+<br/>
 
 ### Languages
 
-<img
-  src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-  alt="Java"
-/>
+<div align="center">
 
-<img
-  src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  alt="JavaScript"
-/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img
-  src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
-  alt="TypeScript"
-/>
+</div>
 
-<img
-  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-  alt="PHP"
-/>
+<br/>
 
-<img
-  src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-  alt="SQL"
-/>
+### Backend & Frameworks
 
-<br/><br/>
+<div align="center">
 
-### Backend
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-7C3AED?style=for-the-badge"/>
 
-<img
-  src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"
-  alt="Spring Boot"
-/>
+</div>
 
-<img
-  src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-  alt="Node.js"
-/>
-
-<img
-  src="https://img.shields.io/badge/EXPRESS-1f1f1f?style=for-the-badge&logo=express&logoColor=white"
-  alt="Express"
-/>
-
-<img
-  src="https://img.shields.io/badge/REST%20API-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white"
-  alt="REST API"
-/>
-
-<br/><br/>
+<br/>
 
 ### Frontend
 
-<img
-  src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-  alt="React"
-/>
+<div align="center">
 
-<img
-  src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-  alt="Next.js"
-/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img
-  src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
-  alt="Tailwind CSS"
-/>
+</div>
 
-<img
-  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  alt="HTML5"
-/>
-
-<img
-  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  alt="CSS3"
-/>
-
-<br/><br/>
+<br/>
 
 ### Databases
 
-<img
-  src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-  alt="MySQL"
-/>
+<div align="center">
 
-<img
-  src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
-  alt="MongoDB"
-/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### Tools & DevOps
 
-<img
-  src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"
-  alt="Docker"
-/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<!-- ============================ DIVIDER ============================ -->
+
+<div align="center">
 
 <img
-  src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"
-  alt="AWS"
-/>
-
-<img
-  src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"
-  alt="Git"
-/>
-
-<img
-  src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-  alt="Postman"
-/>
-
-<img
-  src="https://img.shields.io/badge/INTELLIJ%20IDEA-7C3AED?style=for-the-badge&logo=intellijidea&logoColor=white"
-  alt="IntelliJ IDEA"
-/>
-
-<img
-  src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  alt="VS Code"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:f97316&height=4&section=header&width=100%"
+  width="100%"
+  alt="Divider"
 />
 
 </div>
 
 <br/>
 
-<img
-  src="./assets/divider.svg"
-  width="100%"
-  alt="Divider"
-/>
-
-<br/>
-
-<!-- ========================== EXPERIENCE ========================== -->
+<!-- ========================= EXPERIENCE ========================= -->
 
 <div align="center">
 
 <img
-  src="./assets/title-experience.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=PROFESSIONAL%20EXPERIENCE&fontSize=32&fontColor=C084FC&fontAlignY=55"
   width="100%"
   alt="Professional Experience"
 />
@@ -287,14 +277,17 @@ authentication, deployment and production support.
 
 ### 💼 Software Developer
 
-**Triostack Technologies**  
-`Sep 2025 – Present`
+**Triostack Technologies**
 
-- Building production web applications and backend services
-- Designing and integrating RESTful APIs
-- Java, Spring Boot, PHP, Node.js, React and Next.js
-- Modelling business workflows on MySQL and MongoDB
-- Working on ERP, Accounting, Payroll, CRM, E-commerce and EdTech applications
+`September 2025 – Present`
+
+- Building production web applications and backend systems
+- Developing and integrating RESTful APIs
+- Working with Java and Spring Boot
+- Working with PHP, Node.js, React and Next.js
+- Designing database-driven business workflows
+- Working with MySQL and MongoDB
+- Contributing to ERP, Accounting, Payroll, CRM, E-commerce and EdTech applications
 
 </td>
 
@@ -302,14 +295,15 @@ authentication, deployment and production support.
 
 ### 👨‍💻 Software Developer Intern
 
-**Triostack Technologies**  
-`Jun 2025 – Aug 2025`
+**Triostack Technologies**
 
-- Worked on live client applications
-- Built frontend and backend features
-- Connected APIs to database-driven applications
-- Followed Git-based team workflows
-- Contributed to production releases
+`June 2025 – August 2025`
+
+- Worked on real-world client applications
+- Developed frontend and backend features
+- Integrated APIs with database-driven applications
+- Worked with Git-based development workflows
+- Contributed to production application development
 
 </td>
 
@@ -318,11 +312,17 @@ authentication, deployment and production support.
 
 <br/>
 
+<!-- ============================ DIVIDER ============================ -->
+
+<div align="center">
+
 <img
-  src="./assets/divider.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:f97316&height=4&section=header&width=100%"
   width="100%"
   alt="Divider"
 />
+
+</div>
 
 <br/>
 
@@ -331,7 +331,7 @@ authentication, deployment and production support.
 <div align="center">
 
 <img
-  src="./assets/title-projects.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=FEATURED%20PROJECTS&fontSize=38&fontColor=C084FC&fontAlignY=55"
   width="100%"
   alt="Featured Projects"
 />
@@ -399,7 +399,7 @@ Customer relationship platform covering customers, leads, contacts, follow-ups a
 **Tech Stack**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-1f1f1f?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
@@ -451,7 +451,7 @@ Next.js storefront with product catalog, cart, checkout, orders and administrati
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-1f1f1f?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 </td>
@@ -466,7 +466,7 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-1f1f1f?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 
 </td>
@@ -477,20 +477,26 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 
 <br/>
 
-<img
-  src="./assets/divider.svg"
-  width="100%"
-  alt="Divider"
-/>
-
-<br/>
-
-<!-- ============================ STATS ============================ -->
+<!-- ============================ DIVIDER ============================ -->
 
 <div align="center">
 
 <img
-  src="./assets/title-stats.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:f97316&height=4&section=header&width=100%"
+  width="100%"
+  alt="Divider"
+/>
+
+</div>
+
+<br/>
+
+<!-- ============================ GITHUB STATS ============================ -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=GITHUB%20STATS&fontSize=38&fontColor=C084FC&fontAlignY=55"
   width="100%"
   alt="GitHub Stats"
 />
@@ -518,6 +524,8 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 
 <br/><br/>
 
+<!-- ============================ STREAK ============================ -->
+
 <img
   width="80%"
   src="https://streak-stats.demolab.com?user=priyanshupatel288&background=0d1117&border=30363d&stroke=30363d&ring=a855f7&fire=f97316&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=c084fc&sideLabels=c9d1d9&dates=8b949e&hide_border=true"
@@ -525,6 +533,8 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 />
 
 <br/><br/>
+
+<!-- ============================ STATS CARDS ============================ -->
 
 <img
   height="175"
@@ -540,6 +550,8 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 
 <br/><br/>
 
+<!-- ============================ ACTIVITY ============================ -->
+
 <img
   width="100%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel288&bg_color=0d1117&color=c084fc&line=a855f7&point=f97316&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity"
@@ -547,6 +559,8 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 />
 
 <br/><br/>
+
+<!-- ============================ SNAKE ============================ -->
 
 <img
   src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/output/github-snake-dark.svg"
@@ -557,20 +571,92 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 
 <br/>
 
-<img
-  src="./assets/divider.svg"
-  width="100%"
-  alt="Divider"
-/>
-
-<br/>
-
-<!-- =========================== CONNECT =========================== -->
+<!-- ============================ CODING PROFILES ============================ -->
 
 <div align="center">
 
 <img
-  src="./assets/title-connect.svg"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=CODING%20PROFILES&fontSize=36&fontColor=C084FC&fontAlignY=55"
+  width="100%"
+  alt="Coding Profiles"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/priyanshu6387/">
+<img
+  src="https://img.shields.io/badge/LEETCODE-priyanshu6387-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  alt="LeetCode"
+/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/priyanshu6387">
+<img
+  src="https://img.shields.io/badge/GEEKSFORGEEKS-priyanshu6387-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+  alt="GeeksforGeeks"
+/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ============================ ENGINEERING CAPABILITIES ============================ -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=ENGINEERING%20CAPABILITIES&fontSize=31&fontColor=C084FC&fontAlignY=55"
+  width="100%"
+  alt="Engineering Capabilities"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JAVA%20BACKEND-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-API%20Development-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DATABASES-MySQL%20%7C%20MongoDB-4479A1?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FULL--STACK-React%20%7C%20Next.js-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BACKEND-Node.js%20%7C%20PHP-339933?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BUSINESS%20SYSTEMS-ERP%20%7C%20CRM%20%7C%20Payroll-EC4899?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SAAS-Application%20Development-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DEVOPS-Docker%20%7C%20AWS-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API%20TESTING-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/VERSION%20CONTROL-Git%20%7C%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<!-- ============================ CONNECT ============================ -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:17103b,100:050505&height=100&section=header&text=LET'S%20CONNECT&fontSize=38&fontColor=C084FC&fontAlignY=55"
   width="100%"
   alt="Let's Connect"
 />
@@ -581,7 +667,7 @@ Full-stack e-commerce platform covering product catalog, shopping cart, orders a
 
 <div align="center">
 
-Open to backend and full-stack roles — Java / Spring Boot preferred.
+Open to backend and full-stack software development opportunities.
 
 <br/><br/>
 
@@ -594,14 +680,14 @@ Open to backend and full-stack roles — Java / Spring Boot preferred.
 
 <a href="https://leetcode.com/u/priyanshu6387/">
 <img
-  src="https://img.shields.io/badge/LEETCODE-priyanshu6387-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22"
+  src="https://img.shields.io/badge/LEETCODE-priyanshu6387-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=161b22"
   alt="LeetCode"
 />
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/priyanshu6387">
 <img
-  src="https://img.shields.io/badge/GFG-priyanshu6387-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=161b22"
+  src="https://img.shields.io/badge/GFG-priyanshu6387-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=161b22"
   alt="GeeksforGeeks"
 />
 </a>
@@ -609,9 +695,9 @@ Open to backend and full-stack roles — Java / Spring Boot preferred.
 <br/><br/>
 
 <img
-  src="./assets/footer.svg"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,45:ec4899,75:17103b,100:050505&height=180&section=footer&text=BUILD%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20DELIVER&fontSize=25&fontColor=ffffff&fontAlignY=60&animation=fadeIn"
   width="100%"
-  alt="Build / Deploy / Deliver"
+  alt="Build Deploy Deliver"
 />
 
 </div>

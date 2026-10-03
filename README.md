@@ -66,10 +66,12 @@
 <!-- =========================== WHO AM I =========================== -->
 
 <div align="center">
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=24&duration=1&pause=100000&color=9D4EDD&center=true&vCenter=true&width=850&lines=WHO+AM+I%3F"
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=WHO+AM+I%3F"
   alt="WHO AM I?"
 />
+
 </div>
 
 <br/>

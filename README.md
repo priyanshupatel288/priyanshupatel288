@@ -38,7 +38,7 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
+<!-- ========================== PROFILE VIEWS ========================== -->
 
 <img
   src="https://visitor-badge.laobi.icu/badge?page_id=priyanshupatel288.priyanshupatel288&left_text=%F0%9F%91%81%20PROFILE%20VIEWS&left_color=%23525252&right_color=%237C3AED&radius=3&height=28"
@@ -68,7 +68,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=WHO%20AM%20I%3F&font=Roboto&fontSize=42&fontColor=FFFFFF&fontAlignY=48&desc=BUILDING%20SYSTEMS%20THAT%20SCALE&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=WHO%20AM%20I%3F&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=BUILDING%20SYSTEMS%20THAT%20SCALE&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="WHO AM I?"
 />
@@ -118,7 +118,7 @@ I have contributed to **ERP, Accounting SaaS, Payroll, CRM, LMS and E-Commerce s
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=ENGINEERING%20PROFILE&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=HOW%20I%20BUILD&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=ENGINEERING%20PROFILE&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=HOW%20I%20BUILD&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="ENGINEERING PROFILE"
 />
@@ -160,7 +160,7 @@ I have contributed to **ERP, Accounting SaaS, Payroll, CRM, LMS and E-Commerce s
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=TECHNOLOGY%20STACK&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=TOOLS%20%26%20TECHNOLOGIES&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=TECHNOLOGY%20STACK&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=TOOLS%20%26%20TECHNOLOGIES&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="TECHNOLOGY STACK"
 />
@@ -256,7 +256,7 @@ I have contributed to **ERP, Accounting SaaS, Payroll, CRM, LMS and E-Commerce s
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=PROFESSIONAL%20EXPERIENCE&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=WORK%20%26%20IMPACT&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=PROFESSIONAL%20EXPERIENCE&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=WORK%20%26%20IMPACT&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="PROFESSIONAL EXPERIENCE"
 />
@@ -307,7 +307,7 @@ I have contributed to **ERP, Accounting SaaS, Payroll, CRM, LMS and E-Commerce s
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=FEATURED%20PROJECTS&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=SELECTED%20WORK&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=FEATURED%20PROJECTS&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=SELECTED%20WORK&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="FEATURED PROJECTS"
 />
@@ -543,7 +543,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=GITHUB%20STATS&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=CODE%20%26%20CONTRIBUTIONS&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=GITHUB%20STATS&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=CODE%20%26%20CONTRIBUTIONS&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="GITHUB STATS"
 />
@@ -595,7 +595,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=CONTRIBUTION%20STREAK&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=CONSISTENCY%20%26%20ACTIVITY&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=CONTRIBUTION%20STREAK&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=CONSISTENCY%20%26%20ACTIVITY&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="CONTRIBUTION STREAK"
 />
@@ -634,7 +634,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=CONTRIBUTION%20GRAPH&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=GITHUB%20ACTIVITY&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=CONTRIBUTION%20GRAPH&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=GITHUB%20ACTIVITY&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="CONTRIBUTION GRAPH"
 />
@@ -674,7 +674,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=GITHUB%20TROPHIES&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=ACHIEVEMENTS&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=GITHUB%20TROPHIES&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=ACHIEVEMENTS&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="GITHUB TROPHIES"
 />
@@ -713,7 +713,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=CONTRIBUTION%20SNAKE&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=CONTRIBUTION%20VISUALIZATION&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=CONTRIBUTION%20SNAKE&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=CONTRIBUTION%20VISUALIZATION&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="CONTRIBUTION SNAKE"
 />
@@ -752,7 +752,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=CODING%20PROFILES&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=PROBLEM%20SOLVING&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=CODING%20PROFILES&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=PROBLEM%20SOLVING&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="CODING PROFILES"
 />
@@ -794,7 +794,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=ENGINEERING%20CAPABILITIES&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=WHAT%20I%20BUILD&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=ENGINEERING%20CAPABILITIES&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=WHAT%20I%20BUILD&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="ENGINEERING CAPABILITIES"
 />
@@ -837,7 +837,7 @@ A full-stack e-commerce platform with customer-facing shopping features and admi
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=LET%27S%20CONNECT&font=Roboto&fontSize=40&fontColor=A855F7&fontAlignY=48&desc=GET%20IN%20TOUCH&descSize=13&descColor=9CA3AF&descAlignY=76"
+  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=LET%27S%20CONNECT&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=GET%20IN%20TOUCH&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
   width="100%"
   alt="LET'S CONNECT"
 />
@@ -865,8 +865,6 @@ Open to backend and full-stack opportunities — **Java / Spring Boot preferred.
 </a>
 
 <br/><br/>
-
-<!-- ============================ FINAL DIVIDER ============================ -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:7c3aed&height=3&section=header&width=900"

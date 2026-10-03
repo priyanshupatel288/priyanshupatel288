@@ -85,13 +85,11 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=WHO%20AM%20I%3F&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=BUILDING%20SYSTEMS%20THAT%20SCALE&descSize=13&descColor=A855F7&descAlignY=78"
-  width="100%"
-  alt="WHO AM I"
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=WHO%20AM%20I%3F&font=Georgia&fontSize=42&fontColor=FFFFFF&fontAlignY=48&desc=BUILDING%20SYSTEMS%20THAT%20SCALE&descSize=13&descColor=9CA3AF&descAlignY=76"
+    width="100%"
+    alt="WHO AM I?"
+  />
 </div>
 
 <br/>

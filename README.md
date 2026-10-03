@@ -66,13 +66,10 @@
 <!-- =========================== WHO AM I =========================== -->
 
 <div align="center">
-
 <img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=105&text=WHO%20AM%20I%3F&font=Roboto&fontSize=38&fontColor=A855F7&fontAlignY=48&desc=BUILDING%20SYSTEMS%20THAT%20SCALE&descSize=13&descColor=9CA3AF&descAlignY=76&strokeWidth=0"
-  width="100%"
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=24&duration=1&pause=100000&color=9D4EDD&center=true&vCenter=true&width=850&lines=WHO+AM+I%3F"
   alt="WHO AM I?"
 />
-
 </div>
 
 <br/>

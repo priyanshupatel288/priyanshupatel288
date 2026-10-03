@@ -84,32 +84,28 @@
 
 <div align="center">
 
-## 🌌 WHO AM I?
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=WHO%20AM%20I%3F&fontSize=46&fontColor=FFFFFF&fontAlignY=45&desc=BUILDING%20SYSTEMS%20THAT%20SCALE&descSize=13&descColor=A855F7&descAlignY=78"
+  width="100%"
+  alt="WHO AM I"
+/>
 
 </div>
+
+<br/>
 
 <table>
 <tr>
 
 <td width="100%" valign="top">
 
-### 👨‍💻 Software Developer
+### 👨🏻‍💻 Software Developer
 
-I am **Priyanshu Patel**, a Software Developer focused on building scalable, maintainable and production-ready web applications.
+> **Java Backend & Full-Stack Developer** building scalable, production-ready applications.
 
-I work across **backend and full-stack development**, with strong hands-on experience in **Java, Spring Boot, REST APIs and MySQL**, along with experience across modern JavaScript technologies.
+I specialize in **Java, Spring Boot, REST APIs and MySQL**, with hands-on experience across **React, Next.js, Node.js, MongoDB and PHP**.
 
-I have worked on real-world systems including:
-
-- 🏢 ERP Applications
-- 💰 Accounting SaaS
-- 👨‍🏫 Learning Management Systems
-- 💼 CRM Platforms
-- 🧾 Payroll Management Systems
-- 🛒 E-Commerce Applications
-- 📚 Question Paper Generation Systems
-
-My development experience includes designing APIs, database-driven applications, authentication flows, business logic, dashboards and production-oriented application architectures.
+I have contributed to **ERP, Accounting SaaS, Payroll, CRM, LMS and E-Commerce** systems.
 
 </td>
 
@@ -125,9 +121,15 @@ My development experience includes designing APIs, database-driven applications,
 
 <div align="center">
 
-## ⚡ ENGINEERING PROFILE
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=ENGINEERING%20PROFILE&fontSize=32&fontColor=A855F7&fontAlignY=55"
+  width="100%"
+  alt="Engineering Profile"
+/>
 
 </div>
+
+<br/>
 
 <table align="center">
 
@@ -152,8 +154,8 @@ My development experience includes designing APIs, database-driven applications,
 </tr>
 
 <tr>
-<td align="center"><b>🐘 Additional</b></td>
-<td>PHP • JavaScript • TypeScript</td>
+<td align="center"><b>💻 Languages</b></td>
+<td>Java • JavaScript • TypeScript • PHP</td>
 </tr>
 
 <tr>
@@ -177,9 +179,15 @@ My development experience includes designing APIs, database-driven applications,
 
 <div align="center">
 
-## 🛠️ TECHNOLOGY STACK
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=TECHNOLOGY%20STACK&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=TOOLS%20%26%20TECHNOLOGIES&descSize=12&descColor=9CA3AF&descAlignY=82"
+  width="100%"
+  alt="Technology Stack"
+/>
 
 </div>
+
+<br/>
 
 ### ☕ Java & Backend
 
@@ -277,7 +285,7 @@ My development experience includes designing APIs, database-driven applications,
 
 ---
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps & Development Tools
 
 <p align="center">
 
@@ -308,9 +316,15 @@ My development experience includes designing APIs, database-driven applications,
 
 <div align="center">
 
-## 💼 PROFESSIONAL EXPERIENCE
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=PROFESSIONAL%20EXPERIENCE&fontSize=34&fontColor=A855F7&fontAlignY=55"
+  width="100%"
+  alt="Professional Experience"
+/>
 
 </div>
+
+<br/>
 
 ### 🚀 Software Developer — Triostack Technologies
 
@@ -348,15 +362,21 @@ My development experience includes designing APIs, database-driven applications,
 
 <div align="center">
 
-## 🚀 FEATURED PROJECTS
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=FEATURED%20PROJECTS&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=REAL-WORLD%20APPLICATIONS&descSize=12&descColor=9CA3AF&descAlignY=82"
+  width="100%"
+  alt="Featured Projects"
+/>
 
 </div>
+
+<br/>
 
 ### 💰 Accounting SaaS / RoboBooks
 
 **Java • Spring Boot • REST APIs • MySQL**
 
-A business-oriented accounting SaaS platform designed around financial and accounting workflows.
+Business-oriented accounting software built around financial and accounting workflows.
 
 **Key Areas**
 
@@ -366,7 +386,7 @@ A business-oriented accounting SaaS platform designed around financial and accou
 - Database-driven modules
 - Business logic
 - User management
-- Reporting-oriented features
+- Reporting
 
 ---
 
@@ -374,7 +394,7 @@ A business-oriented accounting SaaS platform designed around financial and accou
 
 **PHP • MySQL • JavaScript**
 
-A payroll management system designed to support multiple schools and employee payroll workflows.
+Payroll management platform designed for multi-school employee and salary workflows.
 
 **Key Areas**
 
@@ -391,7 +411,7 @@ A payroll management system designed to support multiple schools and employee pa
 
 **Java • Spring Boot • MySQL • REST APIs**
 
-A business management platform consisting of multiple interconnected modules.
+Business management platform consisting of interconnected application modules.
 
 **Key Areas**
 
@@ -408,7 +428,7 @@ A business management platform consisting of multiple interconnected modules.
 
 **Java • Spring Boot • MySQL • REST APIs**
 
-A customer relationship management system for managing business interactions and customer-related workflows.
+Customer relationship management platform for customer and business workflows.
 
 **Key Areas**
 
@@ -417,7 +437,7 @@ A customer relationship management system for managing business interactions and
 - Business workflows
 - REST APIs
 - Database management
-- Dashboard-oriented features
+- Dashboard features
 
 ---
 
@@ -425,7 +445,7 @@ A customer relationship management system for managing business interactions and
 
 **Java • Spring Boot • MySQL • REST APIs**
 
-A platform designed to generate question papers based on configurable requirements.
+Application designed to generate question papers using configurable question and subject data.
 
 **Key Areas**
 
@@ -442,7 +462,7 @@ A platform designed to generate question papers based on configurable requiremen
 
 **Java • Spring Boot • React • MySQL**
 
-An educational platform designed around learning and course management workflows.
+Learning platform designed around course, student and educational workflows.
 
 **Key Areas**
 
@@ -459,7 +479,7 @@ An educational platform designed around learning and course management workflows
 
 **React • Node.js • Express.js • MongoDB**
 
-An e-commerce application designed around product discovery and online shopping workflows.
+Full-stack e-commerce application focused on product discovery and shopping workflows.
 
 **Key Areas**
 
@@ -476,7 +496,7 @@ An e-commerce application designed around product discovery and online shopping 
 
 **React • Node.js • Express.js • MongoDB**
 
-A full-stack e-commerce application with frontend, backend and database integration.
+Full-stack e-commerce application with frontend, backend and database integration.
 
 **Key Areas**
 
@@ -496,8 +516,13 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=GITHUB%20ANALYTICS&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=CODE%20%7C%20CONTRIBUTIONS%20%7C%20ACTIVITY&descSize=12&descColor=9CA3AF&descAlignY=82"
+  width="100%"
+  alt="GitHub Analytics"
+/>
 
+<br/>
 <br/>
 
 <img
@@ -532,20 +557,19 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <div align="center">
 
-## 📈 CONTRIBUTION ACTIVITY
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=CONTRIBUTION%20ACTIVITY&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=CONSISTENCY%20IN%20CODE&descSize=12&descColor=9CA3AF&descAlignY=82"
+  width="100%"
+  alt="Contribution Activity"
+/>
 
 <br/>
-
-<!-- GitHub Contribution Hashmap -->
 
 <img
   src="https://ghchart.rshah.org/A855F7/priyanshupatel288"
   width="95%"
   alt="GitHub Contribution Heatmap"
 />
-
-<br/>
-<br/>
 
 </div>
 
@@ -558,7 +582,11 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <div align="center">
 
-## 🏆 GITHUB TROPHIES
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=GITHUB%20TROPHIES&fontSize=34&fontColor=A855F7&fontAlignY=55"
+  width="100%"
+  alt="GitHub Trophies"
+/>
 
 <br/>
 
@@ -579,7 +607,11 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <div align="center">
 
-## 💻 CODING PROFILES
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=CODING%20PROFILES&fontSize=34&fontColor=A855F7&fontAlignY=55"
+  width="100%"
+  alt="Coding Profiles"
+/>
 
 <br/>
 
@@ -612,9 +644,15 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <div align="center">
 
-## 🧠 ENGINEERING CAPABILITIES
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=ENGINEERING%20CAPABILITIES&fontSize=34&fontColor=A855F7&fontAlignY=55"
+  width="100%"
+  alt="Engineering Capabilities"
+/>
 
 </div>
+
+<br/>
 
 <table>
 
@@ -697,10 +735,17 @@ A full-stack e-commerce application with frontend, backend and database integrat
 
 <div align="center">
 
-## 🤝 LET'S CONNECT
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=LET'S%20CONNECT&fontSize=34&fontColor=A855F7&fontAlignY=55&desc=BUILD%20%7C%20COLLABORATE%20%7C%20CREATE&descSize=12&descColor=9CA3AF&descAlignY=82"
+  width="100%"
+  alt="Let's Connect"
+/>
+
+<br/>
 
 I'm open to connecting with developers, engineers, recruiters and technology enthusiasts.
 
+<br/>
 <br/>
 
 <a href="https://www.linkedin.com/in/priyanshu-patel28/">
@@ -730,6 +775,15 @@ I'm open to connecting with developers, engineers, recruiters and technology ent
 
 </a>
 
+<a href="https://www.geeksforgeeks.org/profile/priyanshu6387">
+
+<img
+  src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+  alt="GeeksforGeeks"
+/>
+
+</a>
+
 </div>
 
 <br/>
@@ -746,6 +800,8 @@ I'm open to connecting with developers, engineers, recruiters and technology ent
   width="100%"
   alt="Footer"
 />
+
+<br/>
 
 ### ✨ Building systems. Solving problems. Shipping software.
 

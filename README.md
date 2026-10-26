@@ -100,13 +100,13 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel288&bg_color=00000000&color=c084fc&line=7A18F5&point=ffffff&area=true&area_color=7A18F5&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+<img src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/main/profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshupatel288&theme=radical&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=priyanshupatel288&theme=radical&no-frame=true&no-bg=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=6" alt="GitHub Trophies" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -219,64 +219,3 @@ Product management · Cart and checkout · Order management · User authenticati
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
-
-<!-- =================== ENGINEERING CAPABILITIES ================== -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=ENGINEERING+CAPABILITIES&repeat=false" alt="Engineering Capabilities" />
-</div>
-
-**⚙️ Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-7A18F5?style=flat-square&logo=fastapi&logoColor=white)
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database_Design-7A18F5?style=flat-square)
-![Multi-Tenant Architecture](https://img.shields.io/badge/Multi--Tenant_Architecture-7A18F5?style=flat-square)
-
-**🚀 Development**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<!-- ======================= CODING PROFILES ======================= -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=CODING+PROFILES&repeat=false" alt="Coding Profiles" />
-
-<br>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu6387/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/priyanshu6387)
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<!-- ======================== LET'S CONNECT ======================== -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=LET%27S+CONNECT&repeat=false" alt="Let's Connect" />
-
-I'm open to **software development opportunities**, backend engineering roles and full-stack projects.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-patel28/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshupatel288)
-
-</div>

@@ -86,17 +86,11 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 <tr>
 <td width="70%" valign="top">
 
-Multi-tenant EdTech platform where coaching institutes and educators run their own online academy. Each institute gets a private workspace to manage courses, teachers and students, hold live classes, conduct tests and sell learning material, bringing teaching, payments and content security into one place instead of several separate tools.
+Multi-tenant EdTech platform where coaching institutes and educators run their own online academy.
 
 - **Multi-tenancy:** Every institute’s data stays isolated, with separate portals for institutes, teachers, students and platform admins.
-- **Institute dashboard:** Courses, batches, teachers and students managed from one place, with role-based access so each teacher sees only their assigned work.
 - **Live classes:** Real-time online classes with chat and interaction, plus saved recordings students can watch later.
-- **Tests & analytics:** Online tests, scorecards and student performance analytics.
 - **Marketplace & payments:** Built-in marketplace for courses and study material, with integrated online payments, coupons and a student wallet.
-- **Content security:** Secure delivery of learning content such as videos and PDFs.
-- **Growth & engagement:** Revenue and analytics dashboards for institutes, with notifications and class reminders for students and institutes.
-- **Platform admin:** Oversight of all institutes, verification and support, on a fully responsive design across mobile, tablet and desktop.
-- **My role:** Full-stack: frontend portals and dashboards, backend APIs and real-time live-class features.
 
 </td>
 <td width="30%" valign="top">
@@ -128,17 +122,11 @@ Multi-tenant EdTech platform where coaching institutes and educators run their o
 <tr>
 <td width="70%" valign="top">
 
-Multi-tenant SaaS ERP built for a client that helps schools and colleges run their daily administration in one place. It replaces paperwork and spreadsheets with a single system for owners, administrators, accountants, teachers and students, and gives each institution its own private, secure workspace.
+Multi-tenant SaaS ERP built for a client that helps schools and colleges run their daily administration in one place.
 
 - **Fees:** Fee plans, discounts, transport fees, payment recording, receipts and dues tracking.
 - **Exams & results:** Exam setup, marks entry, grading rules, grace marks, remarks and result publishing.
-- **Reports:** Printable report cards and class reports exported as PDF or Excel, plus a custom designer for schools to build their own report card layouts.
-- **Students:** Admissions, class and section assignment, roll numbers, attendance tracking and year-end promotion.
-- **Bulk import:** Excel upload of students, marks and fee data with a preview before saving.
 - **Access & dashboards:** Role-based access (teachers see only their assigned classes) and separate dashboards for owners, accountants, teachers and students, with charts and live updates.
-- **Platform admin:** Onboarding of new institutions, plan and branding management, support tickets and audit logs of key actions.
-- **Scale & languages:** Multi-language interface, load-tested for large numbers of institutions and students.
-- **My role:** Full-stack developer on the team: built new features, improved the UI and fixed issues across the application.
 
 </td>
 <td width="30%" valign="top">
@@ -168,19 +156,11 @@ Multi-tenant SaaS ERP built for a client that helps schools and colleges run the
 <tr>
 <td width="70%" valign="top">
 
-Multi-tenant payroll and HR platform for educational institutions. One installation serves many institutions while keeping each one’s data, settings and staff separate. It replaced manual, spreadsheet-based salary work with a single system covering the full employee journey: onboarding, attendance and leave, monthly payroll, statutory compliance and final settlement.
+Multi-tenant payroll and HR platform for educational institutions.
 
 - **Multi-tenancy:** Each school is a separate tenant, with strict data isolation between tenants; school owners switch between their schools from one login, and super admins onboard schools, invite owners and HR staff by email and report across all schools.
-- **Configurable rules:** Per-school payroll rules, leave policies, approval chains and payslip formats, with departments, designations and state-wise tax slabs shared from a central master library.
-- **Access control:** Four roles (super admin, school owner, admin/HR, employee) with permission-based access, an audit log and a dashboard for each role.
 - **Payroll workflow:** Step-by-step runs: attendance lock, salary calculation, review, approval through a configurable chain, lock and mark as paid.
-- **Salary & pay:** Custom pay heads, earnings and deductions; overtime, arrears, bonuses, merit increments and reimbursements; automatic loan and advance recovery.
-- **Payslips & exports:** Bulk PDF payslips emailed to employees, bank transfer files in multiple bank formats, and accounting journal exports.
 - **Indian compliance:** PF, ESI, state-wise Professional Tax, Labour Welfare Fund and TDS, with tax declarations, Form 16 from an editable template, challans, compliance reports, gratuity, final settlement and long-service awards.
-- **HR:** Employee profiles, transfers between schools, resignation and termination workflows, and a performance appraisal module for teaching staff.
-- **Leave & attendance:** Custom leave policies with monthly credits, carry-forward and approvals, unpaid leave flowing straight into payroll, and attendance marked manually or synced from biometric devices with correction requests.
-- **Employee portal:** Staff view payslips, apply for leave, submit tax declarations, request advances or reimbursements and download Form 16.
-- **Platform:** Multi-language interface, Excel import and export for most records, queued background jobs and scheduled tasks, PDFs with DomPDF/FPDI, spreadsheets with PhpSpreadsheet, and tests with Laravel Dusk and PHPUnit.
 
 </td>
 <td width="30%" valign="top">
@@ -205,19 +185,11 @@ Multi-tenant payroll and HR platform for educational institutions. One installat
 <tr>
 <td width="70%" valign="top">
 
-Multi-tenant platform that coaching institutes and schools use to build, manage and print exam papers. Each institute gets its own workspace, teachers and question bank, while the platform owner manages a shared academic catalogue and controls each institute’s usage. Papers are assembled by hand or generated with AI, and exported as print-ready, institute-branded PDFs with a separate answer key.
+Multi-tenant platform that coaching institutes and schools use to build, manage and print exam papers.
 
 - **Multi-tenancy:** Each organisation’s data, users and question bank kept separate, with a shared global catalogue of boards, classes, subjects, chapters and topics available to every tenant.
-- **Roles & teachers:** Super Admin, Institute Admin and Teacher roles enforced through RBAC and policies, with teachers assigned to specific classes and subjects and a configurable teacher limit per organisation.
-- **Question bank:** MCQ, True/False, Fill in the Blanks, Match the Following, and Short, Long and Very Long Answer questions, with difficulty levels, hints, comprehension passages, images and rich text; institutes add private questions and topics alongside the global content.
-- **Paper builder:** Section-wise builder that checks question availability in real time before generating a paper.
 - **AI Smart Generate:** Creates questions from a selected syllabus using OpenAI, Gemini or Anthropic with a switchable provider, saving generated questions back into the question bank so the library keeps growing.
-- **AI quotas:** Configurable AI usage quotas per organisation and user, with cost checks before each request.
-- **Bulk import:** Questions and syllabus structure imported from Excel and Word files, with images handled automatically.
 - **Output & sharing:** Configurable header, logo, instructions and layout, PDF export with an answer key, and papers shared from admins to teachers with access granted or revoked.
-- **Administration:** Super Admin dashboard with organisation management, usage stats, a content ledger and system settings.
-- **Security & deployment:** Account security with password policies, activation controls and password reset, deployed with Docker.
-- **Built with:** Blade, Spatie Permission, DomPDF, PhpSpreadsheet/PhpWord and CKEditor.
 
 </td>
 <td width="30%" valign="top">
@@ -242,16 +214,11 @@ Multi-tenant platform that coaching institutes and schools use to build, manage 
 <tr>
 <td width="70%" valign="top">
 
-Full-stack e-commerce platform built for a client D2C brand with customisable products. Customers browse, customise, pay securely and track their orders through to delivery, while the client runs products, orders, customers, website content and their team from a single admin panel.
+Full-stack e-commerce platform built for a client D2C brand with customisable products.
 
-- **Storefront:** Responsive product listings, detail pages, search and cart, with product customisation built into checkout.
 - **Payments:** Razorpay checkout with tax-inclusive pricing, coupons, domestic and international orders, subscription plans and shareable payment links for custom orders.
 - **Shipping & orders:** Shiprocket integration with delivery availability checks, live order tracking and self-service cancellation, return, replacement and refund requests.
-- **Accounts:** Guest checkout plus JWT-secured login via email OTP or Google sign-in.
 - **Admin panel:** Sales, revenue and order analytics, role-based access for team members, coupon management and admin activity logs.
-- **CMS & marketing:** Built-in CMS for pages, blogs and policies, plus offer popups, newsletter signup, cookie consent, SEO and Google Analytics.
-- **Automation:** Background jobs for order updates and scheduled emails, email notifications, PDF invoices and in-app admin alerts.
-- **Deployment:** Containerised with Docker and served behind Nginx.
 
 </td>
 <td width="30%" valign="top">
@@ -280,18 +247,11 @@ Full-stack e-commerce platform built for a client D2C brand with customisable pr
 <tr>
 <td width="70%" valign="top">
 
-Full-stack bakery management and operations platform that brings the customer storefront and the bakery’s back office into one system. Customers browse, order and track deliveries live, while the team runs orders, kitchen, inventory, procurement, delivery, HR, payroll and CRM from one console. Socket.io keeps customer, kitchen and admin views in sync, and role-based access shows each staff member only the modules they need.
+Full-stack bakery management and operations platform that brings the customer storefront and the bakery’s back office into one system.
 
-- **Storefront & checkout:** Catalogue with category filters, featured products, cart, wishlist, saved addresses and a customer dashboard; card and cash-on-delivery checkout with coupons, loyalty points, delivery charges and invoices, built to plug into Stripe.
 - **Order lifecycle:** Server-enforced state machine from approval through preparing, hold, ready, dispatch and delivery, with real-time notifications for customers, kitchen and admins over Socket.io rooms.
 - **Delivery:** Live order tracking and distance-based delivery charges with Google Maps APIs, plus delivery zones, routes and driver assignment.
-- **Kitchen display:** Order queue with priority and station handling, hold and handoff flows, allergy checks, stock alerts and kitchen-to-ops messaging.
-- **Promotions & loyalty:** Coupon engine with server-side validation, reservation, consumption and rollback, usage limits and targeting; loyalty points ledger with automatic Bronze to Platinum tiers based on lifetime spend.
 - **Inventory & procurement:** Warehouses, bins, stock batches and a stock ledger with FEFO allocation, transfers, waste logging and expiry alerts; vendors, purchase orders, goods receipts, vendor bills, payments and returns.
-- **HR & payroll:** Employees, shifts, attendance, leave, performance reviews and documents, with payroll runs using approve and lock steps and payslips.
-- **CRM & intelligence:** Customer 360 view, segments, campaigns and lifecycle tracking, plus dashboards for churn prediction, purchase propensity, product affinity and next-best-action, backed by a recommendation engine and order mood tagging.
-- **Access & security:** Dynamic RBAC checked on both API routes and frontend navigation for admin, ops, kitchen, HR, finance and delivery roles; JWT authentication with password reset and transactional emails via Nodemailer.
-- **Analytics:** Sales, revenue, order status and customer insight dashboards built with Chart.js and Recharts.
 
 </td>
 <td width="30%" valign="top">

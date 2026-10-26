@@ -9,7 +9,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshupatel288/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupatel405@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshupatel288)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshupatel288/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/priyanshupatel288)
@@ -250,20 +249,8 @@ Full-stack bakery management and operations platform that brings the customer st
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=EDUCATION&repeat=false" alt="EDUCATION" />
 </div>
 
-### B.Tech – Computer Science & Engineering
-**Dr. A.P.J. Abdul Kalam Technical University** &nbsp;|&nbsp; *July 2026*
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<!-- ========================= ACHIEVEMENTS ======================== -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=ACHIEVEMENTS&repeat=false" alt="ACHIEVEMENTS" />
-</div>
-
-- Won 1 hackathon by delivering working solutions under tight deadlines.
-- Built and managed a production-grade multi-tenant system from design to deployment.
-- Handled 500+ concurrent users during peak festival traffic with minimal errors.
+### Dr. A.P.J. Abdul Kalam Technical University <img src="./assets/edu-date.svg" align="right" height="24" alt="July 2026" />
+B.Tech – Computer Science & Engineering
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

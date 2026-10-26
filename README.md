@@ -128,6 +128,29 @@ Multi-tenant SaaS ERP built for a client that helps schools and colleges run the
 
 <br>
 
+### <img src="./assets/icons/crm.svg" height="30" align="center" /> &nbsp;Trio CRM
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+Multi-Tenant CRM Platform
+
+- Built REST APIs with WhatsApp and cloud storage integrations, and implemented Redis caching to improve application performance.
+- Automated deployments with Docker, Kubernetes, and Jenkins; monitored production systems using Grafana.
+
+</td>
+<td width="30%" valign="top">
+
+<b>Tech Stack</b><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,redis,docker,kubernetes,jenkins,grafana&perline=6" width="220" alt="MongoDB, Express.js, React, Node.js, Redis, Docker, Kubernetes, Jenkins, Grafana" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ### <img src="./assets/icons/payroll.svg" height="30" align="center" /> &nbsp;Payroll System
 
 <table>

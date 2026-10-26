@@ -37,84 +37,61 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ===================== ENGINEERING PROFILE ===================== -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=ENGINEERING+PROFILE&repeat=false" alt="Engineering Profile" />
-</div>
-
-### 💻 Backend Engineering
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-7A18F5?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### 🌐 Full-Stack Development
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
 <!-- ======================== TECH STACK =========================== -->
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=TECH+STACK&repeat=false" alt="Tech Stack" />
 </div>
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-7A18F5?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-7A18F5?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-
-**Core Concepts**
-
-![OOP](https://img.shields.io/badge/OOP-7A18F5?style=for-the-badge)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-7A18F5?style=for-the-badge)
-![Database Design](https://img.shields.io/badge/Database_Design-7A18F5?style=for-the-badge)
-![Multi-Tenant Architecture](https://img.shields.io/badge/Multi--Tenant_Architecture-7A18F5?style=for-the-badge)
+<br>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<b>🧩 Languages</b><br><br>
+<img src="https://skillicons.dev/icons?i=java,js" height="40" alt="Languages" /><br>
+<sub>Java · SQL · JavaScript</sub>
+</td>
+<td align="center" width="33%">
+<b>⚙️ Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=spring,hibernate" height="40" alt="Backend" /><br>
+<sub>Spring Boot · Spring Data JPA · Hibernate · REST APIs</sub>
+</td>
+<td align="center" width="33%">
+<b>🎨 Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" alt="Frontend" /><br>
+<sub>React · Next.js · Tailwind CSS</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>🗄️ Databases</b><br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="40" alt="Databases" /><br>
+<sub>PostgreSQL · MySQL · Redis</sub>
+</td>
+<td align="center">
+<b>🚀 DevOps</b><br><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx" height="40" alt="DevOps" /><br>
+<sub>Docker · AWS · CI/CD · GitHub Actions · Nginx</sub>
+</td>
+<td align="center">
+<b>🛠️ Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,postman,idea" height="40" alt="Tools" /><br>
+<sub>Git · Postman · IntelliJ IDEA · k6</sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<b>🧠 Core Concepts</b><br><br>
+<table align="center">
+<tr>
+<td align="center" width="25%"><h3>🧱</h3><b>OOP</b></td>
+<td align="center" width="25%"><h3>🌳</h3><b>Data Structures &amp; Algorithms</b></td>
+<td align="center" width="25%"><h3>🗂️</h3><b>Database Design</b></td>
+<td align="center" width="25%"><h3>🏢</h3><b>Multi-Tenant Architecture</b></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

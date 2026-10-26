@@ -1,0 +1,17 @@
+<svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .g * { fill: none; stroke: #61DAFB; stroke-width: 16; stroke-linecap: round; stroke-linejoin: round; }
+    .g .f { fill: #61DAFB; stroke: none; }
+    .g .bg { fill: #242938; }
+  </style>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g class="g">
+    <rect x="40" y="52" width="176" height="152" rx="18"/>
+    <line x1="40" y1="94" x2="216" y2="94"/>
+    <circle cx="66" cy="73" r="6" class="f"/>
+    <circle cx="88" cy="73" r="6" class="f"/>
+    <circle cx="110" cy="73" r="6" class="f"/>
+    <polyline points="104,124 80,150 104,176"/>
+    <polyline points="152,124 176,150 152,176"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .g * { fill: none; stroke: #4F8EF7; stroke-width: 16; stroke-linecap: round; stroke-linejoin: round; }
+    .g .f { fill: #4F8EF7; stroke: none; }
+    .g .bg { fill: #242938; }
+  </style>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g class="g">
+    <ellipse cx="128" cy="70" rx="72" ry="24"/>
+    <path d="M56 70 V186 A72 24 0 0 0 200 186 V70"/>
+    <path d="M56 128 A72 24 0 0 0 200 128"/>
+  </g>
+</svg>

@@ -1,208 +1,123 @@
-<!-- ================================================================ -->
-<!--                    PRIYANSHU PATEL · README                       -->
-<!-- ================================================================ -->
-<!-- Theme: Deep Space / Purple / Neon -->
-
-<div align="center">
-
 <!-- ============================ HERO ============================= -->
 
-<br/>
+<div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=42&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I%27m+Priyanshu+Patel;SDE+%7C+Java+%26+Spring+Boot+Developer;Backend+%26+REST+API+Engineer;Full-Stack+%7C+React+%26+Next.js;MySQL+%7C+MongoDB+%7C+Docker"
-  alt="Hi, I'm Priyanshu Patel"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Priyanshu+Patel;SDE+%7C+Java+%26+Spring+Boot+Developer;Backend+%26+REST+API+Engineer;Full-Stack+%7C+React+%26+Next.js;MySQL+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
 
-<h3>Building scalable backend systems and full-stack applications — from REST APIs to production-ready business platforms.</h3>
+**Building scalable backend systems and full-stack applications — from REST APIs to production-ready business platforms.**
 
-<br/>
+<br>
 
-<!-- =========================== SOCIAL ============================ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-patel28/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshupatel288)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu6387/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/priyanshu6387)
 
-<a href="https://www.linkedin.com/in/priyanshu-patel28/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" /></a>
-<a href="https://github.com/priyanshupatel288"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="36" /></a>
-<a href="https://leetcode.com/u/priyanshu6387/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="36" /></a>
-<a href="https://www.geeksforgeeks.org/profile/priyanshu6387"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="36" /></a>
-
-<br/><br/>
-
-<!-- ======================== PROFILE VIEWS ======================== -->
-
-<img
-  src="https://visitor-badge.laobi.icu/badge?page_id=priyanshupatel288.priyanshupatel288&left_text=PROFILE%20VIEWS&left_color=%23525252&right_color=%237C3AED"
-  alt="Profile Views"
-  height="36"
-/>
-
-<br/>
-
-<!-- ========================== DIVIDER ============================ -->
-
-<img src="./assets/hero-divider.svg" width="100%" alt="Divider" />
+<img src="https://komarev.com/ghpvc/?username=priyanshupatel288&label=Profile%20Views&color=7a18f5&style=for-the-badge" alt="Profile views" />
 
 </div>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ========================= WHO AM I =========================== -->
+<!-- ========================== WHO AM I =========================== -->
 
 <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=WHO+AM+I%3F"
-  alt="WHO AM I?"
-/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=WHO+AM+I%3F&repeat=false" alt="Who Am I?" />
 </div>
-
-<br/>
-
-<div align="center">
 
 I'm a **Software Developer** focused on **Java backend and full-stack engineering**, building scalable and production-ready applications with **Spring Boot, REST APIs and MySQL**.
 
 I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP**, working across different business applications and software systems.
 
-</div>
-
-
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"
-  width="90%"
-  alt="Divider"
-/>
-
+<img src="./assets/blackhole.svg" width="100%" alt="animated black hole" />
 </div>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ===================== ENGINEERING PROFILE ==================== -->
+<!-- ===================== ENGINEERING PROFILE ===================== -->
 
 <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=ENGINEERING+PROFILE"
-  alt="Engineering Profile"
-/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=ENGINEERING+PROFILE&repeat=false" alt="Engineering Profile" />
 </div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%">
 
 ### 💻 Backend Engineering
 
-- Java
-- Spring Boot
-- REST APIs
-- MySQL
-- MongoDB
-- Node.js
-- Express.js
-- PHP
-
-</td>
-
-<td width="50%">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7A18F5?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 🌐 Full-Stack Development
 
-- React
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Responsive Web Applications
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Responsive Web Applications](https://img.shields.io/badge/Responsive_Web_Applications-7A18F5?style=flat-square&logo=googlechrome&logoColor=white)
 
-</td>
-</tr>
-</table>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-
-<br/>
-
-<!-- ====================== TECHNOLOGY STACK ====================== -->
+<!-- ======================== TECH STACK =========================== -->
 
 <div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=TECHNOLOGY+STACK"
-  alt="Technology Stack"
-/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=TECH+STACK&repeat=false" alt="Tech Stack" />
 </div>
 
-<br/>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & APIs**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ================== PROFESSIONAL EXPERIENCE ==================== -->
 
 <div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,php,html,css" />
-
-<br/><br/>
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-
-<br/><br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-<br/><br/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode,idea" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=PROFESSIONAL+EXPERIENCE&repeat=false" alt="Professional Experience" />
 </div>
 
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:7c3aed&height=2&section=header&width=900"
-  width="100%"
-  alt="Section Divider"
-/>
-
-</div>
-
-
-<!-- ================= PROFESSIONAL EXPERIENCE =================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=PROFESSIONAL+EXPERIENCE"
-  alt="Professional Experience"
-/>
-
-</div>
-
-<br/>
-
-### Software Developer — Triostack Technologies
-
+### 💼 Software Developer — Triostack Technologies
 **September 2025 – Present**
 
 - Developing and maintaining production-ready web applications.
@@ -212,10 +127,9 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 - Working across ERP, Accounting, Payroll, CRM, LMS and E-Commerce systems.
 - Collaborating on application development, debugging and feature implementation.
 
-<br/>
+<br>
 
-### Software Developer Intern — Triostack Technologies
-
+### 🧑‍💻 Software Developer Intern — Triostack Technologies
 **June 2025 – August 2025**
 
 - Worked on full-stack web application development.
@@ -223,437 +137,212 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 - Worked with databases and REST-based application workflows.
 - Assisted in developing and improving production applications.
 
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<br/>
+<!-- ======================== GITHUB STATS ========================= -->
 
-<!-- ==================== FEATURED PROJECTS ======================= -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=GITHUB+STATS&repeat=false" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=FEATURED+PROJECTS"
-  alt="Featured Projects"
-/>
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpriyanshupatel288&query=%24.followers&label=Followers&style=for-the-badge&color=7A18F5&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpriyanshupatel288&query=%24.public_repos&label=Repos&style=for-the-badge&color=7A18F5&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpriyanshupatel288&query=%24.following&label=Following&style=for-the-badge&color=7A18F5&logo=github&logoColor=white)
+
+<img src="https://streak-stats.demolab.com?user=priyanshupatel288&theme=transparent&hide_border=true&ring=7A18F5&fire=7A18F5&currStreakLabel=7A18F5" alt="GitHub streak stats" />
 
 </div>
 
-<br/>
+<div align="center">
 
-<table align="center">
+<img src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub summary stats" />
+<img src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most used languages" />
 
-<tr>
+</div>
 
-<td width="50%">
+### 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel288&bg_color=00000000&color=c084fc&line=7A18F5&point=ffffff&area=true&area_color=7A18F5&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshupatel288&theme=radical&no-frame=true&no-bg=true&margin-w=8" width="100%" alt="GitHub Trophies" />
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=FEATURED+PROJECTS&repeat=false" alt="Featured Projects" />
+</div>
 
 ### 💰 Accounting SaaS
-
 **Accounting & Business Management Platform**
 
-- Accounting workflows
-- Business management
-- Financial operations
-- REST API based architecture
-- Database-driven backend
+Accounting workflows · Business management · Financial operations · REST API based architecture · Database-driven backend
 
-**Tech:** Java • Spring Boot • REST APIs • MySQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7A18F5?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</td>
-
-<td width="50%">
+<br>
 
 ### 🏫 Multi-School Payroll
-
 **Payroll Management Platform**
 
-- Employee management
-- Salary processing
-- Payroll workflows
-- Multi-school support
-- Administrative operations
+Employee management · Salary processing · Payroll workflows · Multi-school support · Administrative operations
 
-**Tech:** PHP • MySQL • JavaScript
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+<br>
 
 ### 🏢 ERP System
-
 **Enterprise Resource Planning Platform**
 
-- Business workflows
-- User management
-- Data management
-- Role-based operations
-- Modular application architecture
+Business workflows · User management · Data management · Role-based operations · Modular application architecture
 
-**Tech:** PHP • MySQL • JavaScript
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-</td>
-
-<td width="50%">
+<br>
 
 ### 👥 CRM Platform
-
 **Customer Relationship Management System**
 
-- Customer management
-- Business workflows
-- Data management
-- User operations
-- Application dashboards
+Customer management · Business workflows · Data management · User operations · Application dashboards
 
-**Tech:** Node.js • Express.js • MongoDB • React
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+<br>
 
 ### 📝 Question Paper Generator
-
 **Question Paper Generation Platform**
 
-- Question management
-- Paper generation
-- Subject/topic organization
-- Dynamic workflows
-- Automated document generation
+Question management · Paper generation · Subject/topic organization · Dynamic workflows · Automated document generation
 
-**Tech:** Java • Spring Boot • MySQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-</td>
-
-<td width="50%">
+<br>
 
 ### 🎓 Learning Management System
-
 **Online Learning Platform**
 
-- Course management
-- Student management
-- Learning workflows
-- Content management
-- Administrative dashboards
+Course management · Student management · Learning workflows · Content management · Administrative dashboards
 
-**Tech:** React • Node.js • Express.js • MongoDB
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+<br>
 
 ### 🛍️ Poetry — E-Commerce
-
 **E-Commerce Storefront**
 
-- Product management
-- Shopping workflows
-- Customer interactions
-- Order management
-- Responsive frontend
+Product management · Shopping workflows · Customer interactions · Order management · Responsive frontend
 
-**Tech:** React • Next.js • Node.js • MongoDB
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-</td>
-
-<td width="50%">
+<br>
 
 ### 🛒 E-Commerce Platform
-
 **Full-Stack E-Commerce Application**
 
-- Product management
-- Cart and checkout
-- Order management
-- User authentication
-- Admin operations
+Product management · Cart and checkout · Order management · User authentication · Admin operations
 
-**Tech:** React • Node.js • Express.js • MongoDB
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-</td>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-</tr>
-
-</table>
-
-
-<br/>
-
-<!-- ======================== GITHUB STATS ======================== -->
+<!-- =================== ENGINEERING CAPABILITIES ================== -->
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=ENGINEERING+CAPABILITIES&repeat=false" alt="Engineering Capabilities" />
+</div>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=GITHUB+STATS"
-  alt="GitHub Stats"
-/>
+**⚙️ Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7A18F5?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-7A18F5?style=flat-square&logo=databricks&logoColor=white)
+![Data Management](https://img.shields.io/badge/Data_Management-7A18F5?style=flat-square&logo=files&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-7A18F5?style=flat-square&logo=postman&logoColor=white)
+
+**🚀 Development**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ======================= CODING PROFILES ======================= -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=CODING+PROFILES&repeat=false" alt="Coding Profiles" />
+
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu6387/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/priyanshu6387)
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ======================== LET'S CONNECT ======================== -->
 
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=priyanshupatel288&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatel288&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=9D4EDD&text_color=FFFFFF"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
-
-<br/>
-
-<!-- ===================== CONTRIBUTION STREAK ==================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=CONTRIBUTION+STREAK"
-  alt="Contribution Streak"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=priyanshupatel288&theme=tokyonight&hide_border=true&background=00000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD"
-  alt="GitHub Contribution Streak"
-/>
-
-</div>
-
-
-<br/>
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=CONTRIBUTION+GRAPH"
-  alt="Contribution Graph"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshupatel288&bg_color=00000000&color=9D4EDD&line=7C3AED&point=EC4899&area=true&hide_border=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
-
-<br/>
-
-<!-- ====================== GITHUB TROPHIES ====================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=GITHUB+TROPHIES"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=priyanshupatel288&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-  width="90%"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
-
-<br/>
-
-<!-- ==================== CONTRIBUTION SNAKE ===================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=CONTRIBUTION+SNAKE"
-  alt="Contribution Snake"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/output/github-contribution-grid-snake.svg"
-  width="90%"
-  alt="Contribution Snake"
-/>
-
-</div>
-
-
-<br/>
-
-<!-- ======================= CODING PROFILES ====================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=CODING+PROFILES"
-  alt="Coding Profiles"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/priyanshu6387/">
-<img
-  src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-  alt="LeetCode"
-/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/priyanshu6387">
-<img
-  src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-  alt="GeeksforGeeks"
-/>
-</a>
-
-</div>
-
-
-<br/>
-
-<!-- ================= ENGINEERING CAPABILITIES ================== -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=ENGINEERING+CAPABILITIES"
-  alt="Engineering Capabilities"
-/>
-
-</div>
-
-<br/>
-
-<table align="center">
-
-<tr>
-
-<td width="33%" align="center">
-
-### ⚙️ Backend
-
-Java  
-Spring Boot  
-REST APIs  
-Node.js  
-Express.js  
-PHP
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗄️ Databases
-
-MySQL  
-MongoDB  
-Database Design  
-Data Management  
-API Integration
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 Development
-
-React  
-Next.js  
-Docker  
-AWS  
-Git  
-GitHub
-
-</td>
-
-</tr>
-
-</table>
-
-
-<br/>
-
-<!-- ======================== LET'S CONNECT ======================= -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=30&duration=1&pause=100000&color=9D4EDD&center=false&vCenter=true&width=500&lines=LET%27S+CONNECT"
-  alt="Let's Connect"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=LET%27S+CONNECT&repeat=false" alt="Let's Connect" />
 
 I'm open to **software development opportunities**, backend engineering roles and full-stack projects.
 
-<br/>
+<br>
 
-<a href="https://www.linkedin.com/in/priyanshu-patel28/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/priyanshupatel288">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:ec4899,100:050505&height=120&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-patel28/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshupatel288)
 
 </div>

@@ -7,60 +7,39 @@
 
 <!-- ============================ HERO ============================= -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17103b,100:7c3aed&height=230&section=header&text=PRIYANSHU%20PATEL&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20JAVA%20%E2%80%A2%20SPRING%20BOOT%20%E2%80%A2%20BACKEND&descAlignY=61&descSize=16&animation=fadeIn"
-  width="100%"
-  alt="Priyanshu Patel"
-/>
-
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=800&color=9D4EDD&center=true&vCenter=true&width=850&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+REST+APIs;Full-Stack+Developer+with+production+experience;MySQL+%7C+MongoDB+%7C+Docker"
-  alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=42&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I%27m+Priyanshu+Patel;SDE+%7C+Java+%26+Spring+Boot+Developer;Backend+%26+REST+API+Engineer;Full-Stack+%7C+React+%26+Next.js;MySQL+%7C+MongoDB+%7C+Docker"
+  alt="Hi, I'm Priyanshu Patel"
 />
 
-<br/><br/>
+<h3>Building scalable backend systems and full-stack applications — from REST APIs to production-ready business platforms.</h3>
+
+<br/>
 
 <!-- =========================== SOCIAL ============================ -->
 
-<a href="https://www.linkedin.com/in/priyanshu-patel28/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/priyanshupatel288">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/priyanshu6387/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/priyanshu6387">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/priyanshu-patel28/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" /></a>
+<a href="https://github.com/priyanshupatel288"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="36" /></a>
+<a href="https://leetcode.com/u/priyanshu6387/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="36" /></a>
+<a href="https://www.geeksforgeeks.org/profile/priyanshu6387"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="36" /></a>
 
 <br/><br/>
 
 <!-- ======================== PROFILE VIEWS ======================== -->
 
 <img
-  src="https://visitor-badge.laobi.icu/badge?page_id=priyanshupatel288.priyanshupatel288&left_text=%F0%9F%91%81%20PROFILE%20VIEWS&left_color=%23525252&right_color=%237C3AED&radius=3&height=28"
+  src="https://visitor-badge.laobi.icu/badge?page_id=priyanshupatel288.priyanshupatel288&left_text=PROFILE%20VIEWS&left_color=%23525252&right_color=%237C3AED"
   alt="Profile Views"
+  height="36"
 />
 
-</div>
-
+<br/>
 
 <!-- ========================== DIVIDER ============================ -->
 
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:ec4899,100:7c3aed&height=3&section=header&width=900"
-  width="100%"
-  alt="Section Divider"
-/>
+<img src="./assets/hero-divider.svg" width="100%" alt="Divider" />
 
 </div>
 

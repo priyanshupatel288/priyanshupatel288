@@ -134,10 +134,11 @@ Multi-tenant SaaS ERP built for a client that helps schools and colleges run the
 <tr>
 <td width="70%" valign="top">
 
-Multi-Tenant CRM Platform
+Multi-tenant Customer Relationship Management (CRM) platform.
 
-- Built REST APIs with WhatsApp and cloud storage integrations, and implemented Redis caching to improve application performance.
-- Automated deployments with Docker, Kubernetes, and Jenkins; monitored production systems using Grafana.
+- **Core modules:** Customer management, business workflows, data management, user operations and application dashboards.
+- **Integrations & performance:** Built REST APIs with WhatsApp and cloud storage integrations, and implemented Redis caching to improve application performance.
+- **DevOps & monitoring:** Automated deployments with Docker, Kubernetes, and Jenkins; monitored production systems using Grafana.
 
 </td>
 <td width="30%" valign="top">

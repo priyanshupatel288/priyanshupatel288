@@ -22,16 +22,14 @@ async function gql(query, variables) {
 async function fetchDays() {
   const { user } = await gql('query($u:String!){ user(login:$u){ createdAt } }', { u: USER });
   const days = [];
-  let total = 0;
   let from = new Date(user.createdAt);
   const now = new Date();
   while (from < now) {
     const to = new Date(Math.min(now, new Date(from.getTime() + 365 * 864e5)));
     const data = await gql(
       `query($u:String!,$f:DateTime!,$t:DateTime!){ user(login:$u){ contributionsCollection(from:$f,to:$t){
-        contributionCalendar{ totalContributions weeks{ contributionDays{ date contributionCount } } } } } }`,
+        contributionCalendar{ weeks{ contributionDays{ date contributionCount } } } } } }`,
       { u: USER, f: from.toISOString(), t: to.toISOString() });
-    total += data.user.contributionsCollection.contributionCalendar.totalContributions;
     for (const w of data.user.contributionsCollection.contributionCalendar.weeks)
       for (const d of w.contributionDays) days.push({ date: d.date, count: d.contributionCount });
     from = to;
@@ -39,7 +37,9 @@ async function fetchDays() {
   // de-duplicate overlapping windows, keep order
   const map = new Map(days.map(d => [d.date, d.count]));
   const list = [...map].sort(([a], [b]) => a.localeCompare(b)).map(([date, count]) => ({ date, count }));
-  list.total = total; // GitHub's own total, same number the profile and summary card show
+  // Same number as "N contributions in the last year" on the profile page
+  const cal = await gql('query($u:String!){ user(login:$u){ contributionsCollection{ contributionCalendar{ totalContributions } } } }', { u: USER });
+  list.total = cal.user.contributionsCollection.contributionCalendar.totalContributions;
   return list;
 }
 
@@ -93,7 +93,7 @@ function render({ total, first, longest, cur }) {
 
   <text x="82.5" y="79" class="num" fill="${BLUE}">${total.toLocaleString('en-US')}</text>
   <text x="82.5" y="115" class="lbl" fill="${BLUE}">Total Contributions</text>
-  <text x="82.5" y="145" class="sub">${first ? fmt(first) : ''} - Present</text>
+  <text x="82.5" y="145" class="sub">In the last year</text>
 
   <circle cx="247.5" cy="71" r="40" fill="none" stroke="${P}" stroke-width="5"/>
   <path d="M247.5 19 c4 6 8 9 8 15 a8 8 0 0 1 -16 0 c0 -4 2 -6 4 -9 c0 4 2 6 4 6 c0 -4 -2 -7 0 -12 z" fill="${P}" stroke="#0d1117" stroke-width="3"/>

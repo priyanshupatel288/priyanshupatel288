@@ -2,16 +2,18 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Priyanshu+Patel;SDE+%7C+Java+%26+Spring+Boot+Developer;Backend+%26+REST+API+Engineer;Full-Stack+%7C+React+%26+Next.js;PostgreSQL+%7C+Redis+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Priyanshu+Patel;Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Multi-Tenant+Architecture;Hackathon+Winner" alt="Typing SVG" />
 
-**Building scalable backend systems and full-stack applications — from REST APIs to production-ready business platforms.**
+**Building scalable backend systems with Java, Spring Boot and MySQL — RESTful APIs, multi-tenant architectures and secure role-based access control.**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-patel28/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshupatel288/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupatel405@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshupatel288)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu6387/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/priyanshu6387)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshupatel288/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/priyanshupatel288)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7A18F5?style=for-the-badge&logo=vercel&logoColor=white)](https://priyanshupatel288.vercel.app/)
 <img src="https://komarev.com/ghpvc/?username=priyanshupatel288&label=Profile%20Views&color=7a18f5&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -24,9 +26,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=WHO+AM+I%3F&repeat=false" alt="Who Am I?" />
 </div>
 
-I'm a **Software Developer** focused on **Java backend and full-stack engineering**, building scalable and production-ready applications with **Spring Boot, REST APIs and MySQL**.
-
-I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP**, working across different business applications and software systems.
+**Software Development Engineer** with **1+ year of experience** building scalable backend systems using **Java, Spring Boot, and MySQL**. Skilled in designing **RESTful APIs**, **multi-tenant architectures**, and secure **role-based access control**, with a focus on query optimization and caching. **Hackathon winner.**
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -54,18 +54,14 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 
 <br>
 
-### Software Developer
-**Triostack Technologies Private Limited** &nbsp;|&nbsp; *August 2025 – Present*
+### Software Development Engineer
+**Triostack Technologies Pvt. Ltd.** &nbsp;|&nbsp; Greater Noida, U.P. &nbsp;|&nbsp; *Aug 2025 – Present*
 
-- Developing and maintaining production-ready web applications.
-- Building backend services and REST APIs using Java and Spring Boot.
-- Working with relational and NoSQL databases including MySQL and MongoDB.
-- Contributing to full-stack applications using React, Next.js and Node.js.
-- Working across ERP, Accounting, Payroll, CRM, LMS and E-Commerce systems.
-- Collaborating on application development, debugging and feature implementation.
+- Developed scalable full-stack web applications, building responsive user interfaces, RESTful APIs, and server-side business logic with secure authentication, role-based access control, payment gateway integration, and multi-tenant data isolation across relational and MySQL databases.
+- Improved application performance and scalability through database query optimization, indexing, caching, and load testing.
 
 ### Software Development Intern
-**Triostack Technologies Private Limited** &nbsp;|&nbsp; *June 2025 – August 2025*
+**Triostack Technologies Pvt. Ltd.** &nbsp;|&nbsp; *Jun 2025 – Aug 2025*
 
 - Worked on full-stack web application development.
 - Developed features using PHP, JavaScript, React and Node.js.
@@ -245,6 +241,29 @@ Full-stack bakery management and operations platform that brings the customer st
 </td>
 </tr>
 </table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ========================== EDUCATION ========================== -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=EDUCATION&repeat=false" alt="EDUCATION" />
+</div>
+
+### B.Tech – Computer Science & Engineering
+**Dr. A.P.J. Abdul Kalam Technical University** &nbsp;|&nbsp; *July 2026*
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ========================= ACHIEVEMENTS ======================== -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=ACHIEVEMENTS&repeat=false" alt="ACHIEVEMENTS" />
+</div>
+
+- Won 1 hackathon by delivering working solutions under tight deadlines.
+- Built and managed a production-grade multi-tenant system from design to deployment.
+- Handled 500+ concurrent users during peak festival traffic with minimal errors.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

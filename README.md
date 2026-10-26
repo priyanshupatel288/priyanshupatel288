@@ -265,20 +265,8 @@ B.Tech – Computer Science & Engineering
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpriyanshupatel288&query=%24.public_repos&label=Repos&style=for-the-badge&color=7A18F5&logo=github&logoColor=white)
 ![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpriyanshupatel288&query=%24.following&label=Following&style=for-the-badge&color=7A18F5&logo=github&logoColor=white)
 
+<img src="./streak/streak.svg" alt="GitHub streak stats" />
 
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub summary stats" />
-<img src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most used languages" />
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/main/profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ### 🐍 Contribution Snake

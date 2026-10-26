@@ -22,21 +22,25 @@ async function gql(query, variables) {
 async function fetchDays() {
   const { user } = await gql('query($u:String!){ user(login:$u){ createdAt } }', { u: USER });
   const days = [];
+  let total = 0;
   let from = new Date(user.createdAt);
   const now = new Date();
   while (from < now) {
     const to = new Date(Math.min(now, new Date(from.getTime() + 365 * 864e5)));
     const data = await gql(
       `query($u:String!,$f:DateTime!,$t:DateTime!){ user(login:$u){ contributionsCollection(from:$f,to:$t){
-        contributionCalendar{ weeks{ contributionDays{ date contributionCount } } } } } }`,
+        contributionCalendar{ totalContributions weeks{ contributionDays{ date contributionCount } } } } } }`,
       { u: USER, f: from.toISOString(), t: to.toISOString() });
+    total += data.user.contributionsCollection.contributionCalendar.totalContributions;
     for (const w of data.user.contributionsCollection.contributionCalendar.weeks)
       for (const d of w.contributionDays) days.push({ date: d.date, count: d.contributionCount });
     from = to;
   }
   // de-duplicate overlapping windows, keep order
   const map = new Map(days.map(d => [d.date, d.count]));
-  return [...map].sort(([a], [b]) => a.localeCompare(b)).map(([date, count]) => ({ date, count }));
+  const list = [...map].sort(([a], [b]) => a.localeCompare(b)).map(([date, count]) => ({ date, count }));
+  list.total = total; // GitHub's own total, same number the profile and summary card show
+  return list;
 }
 
 function mockDays() {
@@ -50,7 +54,7 @@ function mockDays() {
 }
 
 function stats(days) {
-  const total = days.reduce((n, d) => n + d.count, 0);
+  const total = days.total ?? days.reduce((n, d) => n + d.count, 0);
   let longest = { len: 0 }, run = null;
   for (const d of days) {
     if (d.count > 0) {

@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=44&duration=1&pause=100000&color=A371F7&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Priyanshu+Patel" alt="Priyanshu Patel" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&duration=1&pause=100000&color=8B949E&center=true&vCenter=true&repeat=false&width=700&height=44&lines=Hello+There!" alt="Hello There!" />
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&weight=500&size=64&letterSpacing=-3px&duration=1&pause=100000&color=A371F7&center=true&vCenter=true&repeat=false&width=800&height=84&lines=I+am+Priyanshu+Patel" alt="I am Priyanshu Patel" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=900&height=45&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Multi-Tenant+Architecture;Hackathon+Winner" alt="Typing SVG" />
 

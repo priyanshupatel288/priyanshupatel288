@@ -96,8 +96,7 @@ Multi-tenant EdTech platform where coaching institutes and educators run their o
 <td width="30%" valign="top">
 
 <b>Tech Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,java,spring,postgres,redis,docker,nginx&perline=4" alt="React, TypeScript, Tailwind CSS, Vite, Java, Spring Boot, Spring Security, PostgreSQL, Redis, WebSockets, MinIO, Docker, Nginx" />
-<br>Spring Security · WebSockets · MinIO
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,java,spring,postgres,redis,docker,nginx&perline=6" width="220" alt="React, TypeScript, Tailwind CSS, Vite, Java, Spring Boot, Spring Security, PostgreSQL, Redis, WebSockets, MinIO, Docker, Nginx" />
 
 </td>
 </tr>
@@ -121,8 +120,7 @@ Multi-tenant SaaS ERP built for a client that helps schools and colleges run the
 <td width="30%" valign="top">
 
 <b>Tech Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,js,alpinejs,tailwind,docker,githubactions&perline=4" alt="Laravel, PHP, MySQL, MariaDB, Redis, JavaScript, Alpine.js, Tailwind CSS, Chart.js, Docker, GitHub Actions" />
-<br>MariaDB · Chart.js
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,js,alpinejs,tailwind,docker,githubactions&perline=6" width="220" alt="Laravel, PHP, MySQL, MariaDB, Redis, JavaScript, Alpine.js, Tailwind CSS, Chart.js, Docker, GitHub Actions" />
 
 </td>
 </tr>
@@ -146,7 +144,7 @@ Multi-tenant payroll and HR platform for educational institutions.
 <td width="30%" valign="top">
 
 <b>Tech Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,alpinejs,vite&perline=4" alt="Laravel, PHP, MySQL, Tailwind CSS, Alpine.js, Vite" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,alpinejs,vite&perline=6" width="220" alt="Laravel, PHP, MySQL, Tailwind CSS, Alpine.js, Vite" />
 
 </td>
 </tr>
@@ -170,7 +168,7 @@ Multi-tenant platform that coaching institutes and schools use to build, manage 
 <td width="30%" valign="top">
 
 <b>Tech Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,vite,docker&perline=4" alt="Laravel, PHP, MySQL, Tailwind CSS, Vite, Docker" />
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,vite,docker&perline=6" width="220" alt="Laravel, PHP, MySQL, Tailwind CSS, Vite, Docker" />
 
 </td>
 </tr>
@@ -194,8 +192,7 @@ Full-stack e-commerce platform built for a client D2C brand with customisable pr
 <td width="30%" valign="top">
 
 <b>Tech Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb,docker,nginx&perline=4" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, Mongoose, MongoDB, Docker, Nginx" />
-<br>Mongoose
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb,docker,nginx&perline=6" width="220" alt="Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, Mongoose, MongoDB, Docker, Nginx" />
 
 </td>
 </tr>
@@ -219,8 +216,7 @@ Full-stack bakery management and operations platform that brings the customer st
 <td width="30%" valign="top">
 
 <b>Tech Stack</b><br><br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb&perline=4" alt="Next.js, React, TypeScript, Tailwind CSS, Zustand, Framer Motion, Node.js, Express.js, Mongoose, MongoDB, Socket.io" />
-<br>Zustand · Framer Motion · Mongoose · Socket.io
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb&perline=6" width="220" alt="Next.js, React, TypeScript, Tailwind CSS, Zustand, Framer Motion, Node.js, Express.js, Mongoose, MongoDB, Socket.io" />
 
 </td>
 </tr>

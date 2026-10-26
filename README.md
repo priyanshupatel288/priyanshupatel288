@@ -80,7 +80,7 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=FEATURED+PROJECTS&repeat=false" alt="Featured Projects" />
 </div>
 
-### EdTech Platform
+### <img src="./assets/icons/edtech.svg" height="30" align="center" /> &nbsp;EdTech Platform
 
 <table>
 <tr>
@@ -104,7 +104,7 @@ Multi-tenant EdTech platform where coaching institutes and educators run their o
 
 <br>
 
-### School ERP
+### <img src="./assets/icons/erp.svg" height="30" align="center" /> &nbsp;School ERP
 
 <table>
 <tr>
@@ -128,7 +128,7 @@ Multi-tenant SaaS ERP built for a client that helps schools and colleges run the
 
 <br>
 
-### Payroll System
+### <img src="./assets/icons/payroll.svg" height="30" align="center" /> &nbsp;Payroll System
 
 <table>
 <tr>
@@ -152,7 +152,7 @@ Multi-tenant payroll and HR platform for educational institutions.
 
 <br>
 
-### Question Paper Generator
+### <img src="./assets/icons/qpg.svg" height="30" align="center" /> &nbsp;Question Paper Generator
 
 <table>
 <tr>
@@ -176,7 +176,7 @@ Multi-tenant platform that coaching institutes and schools use to build, manage 
 
 <br>
 
-### E-Commerce Platform
+### <img src="./assets/icons/ecommerce.svg" height="30" align="center" /> &nbsp;E-Commerce Platform
 
 <table>
 <tr>
@@ -200,7 +200,7 @@ Full-stack e-commerce platform built for a client D2C brand with customisable pr
 
 <br>
 
-### Bake-Ree
+### <img src="./assets/icons/bakery.svg" height="30" align="center" /> &nbsp;Bake-Ree
 
 <table>
 <tr>

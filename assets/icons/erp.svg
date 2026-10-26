@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .g * { fill: none; stroke: #4F8EF7; stroke-width: 16; stroke-linecap: round; stroke-linejoin: round; }
+    .g .f { fill: #4F8EF7; stroke: none; }
+    .g .bg { fill: #242938; }
+  </style>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g class="g">
+    <path d='M40 208 V112 L128 56 L216 112 V208 Z'/>
+    <rect x='108' y='150' width='40' height='58'/>
+    <line x1='72' y1='136' x2='92' y2='136'/>
+    <line x1='164' y1='136' x2='184' y2='136'/>
+    <circle cx='128' cy='108' r='14'/>
+  </g>
+</svg>

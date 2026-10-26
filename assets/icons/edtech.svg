@@ -1,0 +1,13 @@
+<svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .g * { fill: none; stroke: #C084FC; stroke-width: 16; stroke-linecap: round; stroke-linejoin: round; }
+    .g .f { fill: #C084FC; stroke: none; }
+    .g .bg { fill: #242938; }
+  </style>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g class="g">
+    <polygon points='128,56 228,100 128,144 28,100'/>
+    <path d='M72 122 V168 C72 188 184 188 184 168 V122'/>
+    <line x1='212' y1='108' x2='212' y2='164'/>
+  </g>
+</svg>

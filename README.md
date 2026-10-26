@@ -265,7 +265,7 @@ B.Tech – Computer Science & Engineering
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpriyanshupatel288&query=%24.public_repos&label=Repos&style=for-the-badge&color=7A18F5&logo=github&logoColor=white)
 ![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpriyanshupatel288&query=%24.following&label=Following&style=for-the-badge&color=7A18F5&logo=github&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=priyanshupatel288&theme=transparent&hide_border=true&ring=7A18F5&fire=7A18F5&currStreakLabel=7A18F5" alt="GitHub streak stats" />
+<img src="./streak/streak.svg" alt="GitHub streak stats" />
 
 </div>
 

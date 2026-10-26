@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshupatel288)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu6387/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/priyanshu6387)
-
 <img src="https://komarev.com/ghpvc/?username=priyanshupatel288&label=Profile%20Views&color=7a18f5&style=for-the-badge" alt="Profile views" />
 
 </div>
@@ -53,8 +52,10 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=PROFESSIONAL+EXPERIENCE&repeat=false" alt="Professional Experience" />
 </div>
 
-### 💼 Software Developer — Triostack Technologies
-**September 2025 – Present**
+<br>
+
+### Software Developer
+**Triostack Technologies Private Limited** &nbsp;|&nbsp; *August 2025 – Present*
 
 - Developing and maintaining production-ready web applications.
 - Building backend services and REST APIs using Java and Spring Boot.
@@ -63,10 +64,8 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 - Working across ERP, Accounting, Payroll, CRM, LMS and E-Commerce systems.
 - Collaborating on application development, debugging and feature implementation.
 
-<br>
-
-### 🧑‍💻 Software Developer Intern — Triostack Technologies
-**June 2025 – August 2025**
+### Software Development Intern
+**Triostack Technologies Private Limited** &nbsp;|&nbsp; *June 2025 – August 2025*
 
 - Worked on full-stack web application development.
 - Developed features using PHP, JavaScript, React and Node.js.

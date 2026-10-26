@@ -1,0 +1,189 @@
+<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="top2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b2133"/><stop offset="1" stop-color="#121726"/>
+    </linearGradient>
+    <clipPath id="face2"><polygon points="560,204 680,252 560,300 440,252"/></clipPath>
+    <linearGradient id="top1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b2133"/><stop offset="1" stop-color="#121726"/>
+    </linearGradient>
+    <clipPath id="face1"><polygon points="560,124 680,172 560,220 440,172"/></clipPath>
+    <linearGradient id="top0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b2133"/><stop offset="1" stop-color="#121726"/>
+    </linearGradient>
+    <clipPath id="face0"><polygon points="560,44 680,92 560,140 440,92"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="10"/></filter>
+    <radialGradient id="aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7A18F5" stop-opacity="0.28"/><stop offset="1" stop-color="#7A18F5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gridFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="0.6" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="340" fill="#0d1117"/>
+  <g stroke="#1f2940" stroke-width="1" opacity="0.8"><line x1="-460" y1="370" x2="140" y2="250"/><line x1="140" y1="370" x2="-460" y2="250"/><line x1="-400" y1="370" x2="200" y2="250"/><line x1="200" y1="370" x2="-400" y2="250"/><line x1="-340" y1="370" x2="260" y2="250"/><line x1="260" y1="370" x2="-340" y2="250"/><line x1="-280" y1="370" x2="320" y2="250"/><line x1="320" y1="370" x2="-280" y2="250"/><line x1="-220" y1="370" x2="380" y2="250"/><line x1="380" y1="370" x2="-220" y2="250"/><line x1="-160" y1="370" x2="440" y2="250"/><line x1="440" y1="370" x2="-160" y2="250"/><line x1="-100" y1="370" x2="500" y2="250"/><line x1="500" y1="370" x2="-100" y2="250"/><line x1="-40" y1="370" x2="560" y2="250"/><line x1="560" y1="370" x2="-40" y2="250"/><line x1="20" y1="370" x2="620" y2="250"/><line x1="620" y1="370" x2="20" y2="250"/><line x1="80" y1="370" x2="680" y2="250"/><line x1="680" y1="370" x2="80" y2="250"/><line x1="140" y1="370" x2="740" y2="250"/><line x1="740" y1="370" x2="140" y2="250"/><line x1="200" y1="370" x2="800" y2="250"/><line x1="800" y1="370" x2="200" y2="250"/><line x1="260" y1="370" x2="860" y2="250"/><line x1="860" y1="370" x2="260" y2="250"/><line x1="320" y1="370" x2="920" y2="250"/><line x1="920" y1="370" x2="320" y2="250"/><line x1="380" y1="370" x2="980" y2="250"/><line x1="980" y1="370" x2="380" y2="250"/><line x1="440" y1="370" x2="1040" y2="250"/><line x1="1040" y1="370" x2="440" y2="250"/><line x1="500" y1="370" x2="1100" y2="250"/><line x1="1100" y1="370" x2="500" y2="250"/><line x1="560" y1="370" x2="1160" y2="250"/><line x1="1160" y1="370" x2="560" y2="250"/><line x1="620" y1="370" x2="1220" y2="250"/><line x1="1220" y1="370" x2="620" y2="250"/><line x1="680" y1="370" x2="1280" y2="250"/><line x1="1280" y1="370" x2="680" y2="250"/><line x1="740" y1="370" x2="1340" y2="250"/><line x1="1340" y1="370" x2="740" y2="250"/><line x1="800" y1="370" x2="1400" y2="250"/><line x1="1400" y1="370" x2="800" y2="250"/><line x1="860" y1="370" x2="1460" y2="250"/><line x1="1460" y1="370" x2="860" y2="250"/><line x1="920" y1="370" x2="1520" y2="250"/><line x1="1520" y1="370" x2="920" y2="250"/><line x1="980" y1="370" x2="1580" y2="250"/><line x1="1580" y1="370" x2="980" y2="250"/></g>
+  <rect width="900" height="340" fill="url(#gridFade)"/>
+  <ellipse cx="560" cy="180" rx="260" ry="150" fill="url(#aura)"/>
+  
+  <g transform="translate(0 0) skewY(-4)">
+    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;0 -4;0 0" dur="5s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <rect x="48" y="72" width="300" height="230" rx="12" fill="#000" opacity="0.45" filter="url(#shadow)"/>
+    <rect x="40" y="62" width="300" height="230" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="40" y="62" width="300" height="34" rx="12" fill="#1c2230"/>
+    <rect x="40" y="84" width="300" height="12" fill="#1c2230"/>
+    <circle cx="58" cy="79" r="5" fill="#ff5f57"/>
+    <circle cx="74" cy="79" r="5" fill="#febc2e"/>
+    <circle cx="90" cy="79" r="5" fill="#28c840"/>
+    <text x="210" y="83" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">ProjectController.java</text>
+    
+    <clipPath id="ln0"><rect x="80" y="110" width="0" height="20">
+      <animate attributeName="width" values="0;0;115.5;115.5;0" keyTimes="0;0.044;0.100;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <text x="62" y="124" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#484f58" text-anchor="end">1</text>
+    <text x="80" y="124" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" xml:space="preserve" clip-path="url(#ln0)"><tspan fill="#f472b6">@RestController</tspan></text>
+    <clipPath id="ln1"><rect x="80" y="132" width="0" height="20">
+      <animate attributeName="width" values="0;0;239.6;239.6;0" keyTimes="0;0.106;0.161;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <text x="62" y="146" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#484f58" text-anchor="end">2</text>
+    <text x="80" y="146" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" xml:space="preserve" clip-path="url(#ln1)"><tspan fill="#c084fc">public class </tspan><tspan fill="#fde68a">ProjectController</tspan><tspan fill="#c9d1d9"> {</tspan></text>
+    <clipPath id="ln2"><rect x="80" y="154" width="0" height="20">
+      <animate attributeName="width" values="0;0;225;225;0" keyTimes="0;0.167;0.222;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <text x="62" y="168" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#484f58" text-anchor="end">3</text>
+    <text x="80" y="168" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" xml:space="preserve" clip-path="url(#ln2)"><tspan fill="#f472b6">  @GetMapping</tspan><tspan fill="#86efac">("/api/projects")</tspan></text>
+    <clipPath id="ln3"><rect x="80" y="176" width="0" height="20">
+      <animate attributeName="width" values="0;0;225;225;0" keyTimes="0;0.228;0.283;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <text x="62" y="190" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#484f58" text-anchor="end">4</text>
+    <text x="80" y="190" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" xml:space="preserve" clip-path="url(#ln3)"><tspan fill="#c084fc">  public </tspan><tspan fill="#fde68a">List</tspan><tspan fill="#c9d1d9">&lt;Project&gt; all() {</tspan></text>
+    <clipPath id="ln4"><rect x="80" y="198" width="0" height="20">
+      <animate attributeName="width" values="0;0;217.7;217.7;0" keyTimes="0;0.289;0.344;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <text x="62" y="212" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#484f58" text-anchor="end">5</text>
+    <text x="80" y="212" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" xml:space="preserve" clip-path="url(#ln4)"><tspan fill="#c084fc">    return </tspan><tspan fill="#7dd3fc">service</tspan><tspan fill="#c9d1d9">.findAll();</tspan></text>
+    <clipPath id="ln5"><rect x="80" y="220" width="0" height="20">
+      <animate attributeName="width" values="0;0;27.9;27.9;0" keyTimes="0;0.350;0.406;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <text x="62" y="234" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#484f58" text-anchor="end">6</text>
+    <text x="80" y="234" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" xml:space="preserve" clip-path="url(#ln5)"><tspan fill="#c9d1d9">  }</tspan></text>
+    <clipPath id="ln6"><rect x="80" y="242" width="0" height="20">
+      <animate attributeName="width" values="0;0;13.3;13.3;0" keyTimes="0;0.411;0.467;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </rect></clipPath>
+    <text x="62" y="256" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#484f58" text-anchor="end">7</text>
+    <text x="80" y="256" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5" xml:space="preserve" clip-path="url(#ln6)"><tspan fill="#c9d1d9">}</tspan></text>
+  </g>
+  
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4s" begin="-2.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <!-- side faces -->
+    <polygon points="440,252 560,300 560,316 440,268" fill="#1e3a8a" opacity="0.85"/>
+    <polygon points="560,300 680,252 680,268 560,316" fill="#1e3a8a" opacity="0.55"/>
+    <!-- top face -->
+    <polygon points="560,204 680,252 560,300 440,252" fill="url(#top2)" stroke="#4F8EF7" stroke-width="1.5"/>
+    <g clip-path="url(#face2)">
+      <g transform="matrix(2 0.8 -2 0.8 560 252)">
+        <path d="M-60 -20 H60 M-60 20 H60 M-20 -60 V60 M20 -60 V60" stroke="#4F8EF7" stroke-opacity="0.08" stroke-width="1"/>
+        
+      <rect x="-40" y="-30" width="80" height="60" rx="5" fill="none" stroke="#4F8EF7" stroke-width="3"/>
+      <rect x="-40" y="-30" width="80" height="14" rx="5" fill="#4F8EF7" opacity="0.45"/>
+      <line x1="-40" y1="0" x2="40" y2="0" stroke="#4F8EF7" stroke-width="2" opacity="0.7"/>
+      <line x1="-40" y1="15" x2="40" y2="15" stroke="#4F8EF7" stroke-width="2" opacity="0.7"/>
+      <line x1="-10" y1="-16" x2="-10" y2="30" stroke="#4F8EF7" stroke-width="2" opacity="0.7"/>
+        <rect x="-90" y="-60" width="18" height="120" fill="#4F8EF7" opacity="0.12">
+          <animate attributeName="x" values="-90;80" dur="3.5s" begin="-1.8s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+    <!-- glowing front edges -->
+    <polyline points="440,252 560,300 680,252" fill="none" stroke="#4F8EF7" stroke-width="2" filter="url(#glow)"/>
+    <!-- label -->
+    <line x1="688" y1="252" x2="720" y2="252" stroke="#4F8EF7" stroke-opacity="0.6"/>
+    <circle cx="688" cy="252" r="2.5" fill="#4F8EF7"/>
+    <text x="728" y="248" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#4F8EF7">DATA LAYER</text>
+    <text x="728" y="265" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">MySQL · PostgreSQL · Redis</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4s" begin="-1.2s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <!-- side faces -->
+    <polygon points="440,172 560,220 560,236 440,188" fill="#5b21b6" opacity="0.85"/>
+    <polygon points="560,220 680,172 680,188 560,236" fill="#5b21b6" opacity="0.55"/>
+    <!-- top face -->
+    <polygon points="560,124 680,172 560,220 440,172" fill="url(#top1)" stroke="#a78bfa" stroke-width="1.5"/>
+    <g clip-path="url(#face1)">
+      <g transform="matrix(2 0.8 -2 0.8 560 172)">
+        <path d="M-60 -20 H60 M-60 20 H60 M-20 -60 V60 M20 -60 V60" stroke="#a78bfa" stroke-opacity="0.08" stroke-width="1"/>
+        
+      <text x="0" y="12" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="38" font-weight="700" fill="#a78bfa">{ }</text>
+        <rect x="-90" y="-60" width="18" height="120" fill="#a78bfa" opacity="0.12">
+          <animate attributeName="x" values="-90;80" dur="3.5s" begin="-0.9s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+    <!-- glowing front edges -->
+    <polyline points="440,172 560,220 680,172" fill="none" stroke="#a78bfa" stroke-width="2" filter="url(#glow)"/>
+    <!-- label -->
+    <line x1="688" y1="172" x2="720" y2="172" stroke="#a78bfa" stroke-opacity="0.6"/>
+    <circle cx="688" cy="172" r="2.5" fill="#a78bfa"/>
+    <text x="728" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#a78bfa">API LAYER</text>
+    <text x="728" y="185" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">Spring Boot · REST APIs</text>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <!-- side faces -->
+    <polygon points="440,92 560,140 560,156 440,108" fill="#0e7490" opacity="0.85"/>
+    <polygon points="560,140 680,92 680,108 560,156" fill="#0e7490" opacity="0.55"/>
+    <!-- top face -->
+    <polygon points="560,44 680,92 560,140 440,92" fill="url(#top0)" stroke="#22d3ee" stroke-width="1.5"/>
+    <g clip-path="url(#face0)">
+      <g transform="matrix(2 0.8 -2 0.8 560 92)">
+        <path d="M-60 -20 H60 M-60 20 H60 M-20 -60 V60 M20 -60 V60" stroke="#22d3ee" stroke-opacity="0.08" stroke-width="1"/>
+        
+      <rect x="-38" y="-30" width="76" height="60" rx="6" fill="none" stroke="#22d3ee" stroke-width="3"/>
+      <line x1="-38" y1="-16" x2="38" y2="-16" stroke="#22d3ee" stroke-width="3"/>
+      <rect x="-28" y="-6" width="24" height="26" rx="3" fill="#22d3ee" opacity="0.5"/>
+      <rect x="2" y="-6" width="26" height="6" rx="2" fill="#22d3ee" opacity="0.8"/>
+      <rect x="2" y="6" width="20" height="6" rx="2" fill="#22d3ee" opacity="0.5"/>
+        <rect x="-90" y="-60" width="18" height="120" fill="#22d3ee" opacity="0.12">
+          <animate attributeName="x" values="-90;80" dur="3.5s" begin="0s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+    </g>
+    <!-- glowing front edges -->
+    <polyline points="440,92 560,140 680,92" fill="none" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+    <!-- label -->
+    <line x1="688" y1="92" x2="720" y2="92" stroke="#22d3ee" stroke-opacity="0.6"/>
+    <circle cx="688" cy="92" r="2.5" fill="#22d3ee"/>
+    <text x="728" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5" fill="#22d3ee">UI LAYER</text>
+    <text x="728" y="105" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif" font-size="12" fill="#c9d1d9">React · Next.js · Tailwind</text>
+  </g>
+  
+  <line x1="534" y1="92" x2="534" y2="262" stroke="#22d3ee" stroke-opacity="0.18" stroke-dasharray="3 5"/>
+  <line x1="586" y1="92" x2="586" y2="262" stroke="#c084fc" stroke-opacity="0.18" stroke-dasharray="3 5"/>
+  
+  <circle cx="534" cy="98" r="4" fill="#22d3ee" filter="url(#glow)" opacity="0">
+    <animate attributeName="cy" values="98;258" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="586" cy="258" r="4" fill="#c084fc" filter="url(#glow)" opacity="0">
+    <animate attributeName="cy" values="258;98" dur="2.2s" begin="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.2s" begin="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="534" cy="98" r="4" fill="#22d3ee" filter="url(#glow)" opacity="0">
+    <animate attributeName="cy" values="98;258" dur="2.2s" begin="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.2s" begin="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="586" cy="258" r="4" fill="#c084fc" filter="url(#glow)" opacity="0">
+    <animate attributeName="cy" values="258;98" dur="2.2s" begin="3.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="2.2s" begin="3.3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.5;0.9;1" dur="4.4s" repeatCount="indefinite"/>
+    <rect x="352" y="158" width="96" height="26" rx="13" fill="#0f2a1a" stroke="#3fb950" stroke-opacity="0.7"/>
+    <circle cx="366" cy="171" r="4" fill="#3fb950"/>
+    <text x="376" y="175" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11" fill="#3fb950">200 OK</text>
+    <text x="424" y="175" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="10" fill="#7ee2a0" opacity="0.8">42ms</text>
+  </g>
+</svg>

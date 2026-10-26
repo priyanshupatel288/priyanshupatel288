@@ -29,7 +29,7 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-<img src="./assets/orb.svg" width="100%" alt="animated chrome orb" />
+<img src="./assets/architecture.svg" width="100%" alt="Full-stack architecture: React UI layer, Spring Boot API layer and MySQL/PostgreSQL/Redis data layer" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />

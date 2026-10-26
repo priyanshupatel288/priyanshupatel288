@@ -43,55 +43,7 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=TECH+STACK&repeat=false" alt="Tech Stack" />
 </div>
 <br>
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<b>🧩 Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=java,js" height="40" alt="Languages" /><br>
-<sub>Java · SQL · JavaScript</sub>
-</td>
-<td align="center" width="33%">
-<b>⚙️ Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=spring,hibernate" height="40" alt="Backend" /><br>
-<sub>Spring Boot · Spring Data JPA · Hibernate · REST APIs</sub>
-</td>
-<td align="center" width="33%">
-<b>🎨 Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" alt="Frontend" /><br>
-<sub>React · Next.js · Tailwind CSS</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>🗄️ Databases</b><br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="40" alt="Databases" /><br>
-<sub>PostgreSQL · MySQL · Redis</sub>
-</td>
-<td align="center">
-<b>🚀 DevOps</b><br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx" height="40" alt="DevOps" /><br>
-<sub>Docker · AWS · CI/CD · GitHub Actions · Nginx</sub>
-</td>
-<td align="center">
-<b>🛠️ Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,postman,idea" height="40" alt="Tools" /><br>
-<sub>Git · Postman · IntelliJ IDEA · k6</sub>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="3">
-<b>🧠 Core Concepts</b><br><br>
-<table align="center">
-<tr>
-<td align="center" width="25%"><h3>🧱</h3><b>OOP</b></td>
-<td align="center" width="25%"><h3>🌳</h3><b>Data Structures &amp; Algorithms</b></td>
-<td align="center" width="25%"><h3>🗂️</h3><b>Database Design</b></td>
-<td align="center" width="25%"><h3>🏢</h3><b>Multi-Tenant Architecture</b></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+<img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack — Languages: Java, SQL, JavaScript · Backend: Spring Boot, Spring Data JPA, Hibernate, REST APIs · Frontend: React, Next.js, Tailwind CSS · Databases: PostgreSQL, MySQL, Redis · DevOps: Docker, AWS, CI/CD, GitHub Actions, Nginx · Tools: Git, Postman, IntelliJ IDEA, k6 · Core Concepts: OOP, Data Structures & Algorithms, Database Design, Multi-Tenant Architecture" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

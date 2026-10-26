@@ -29,7 +29,7 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-<img src="./assets/blackhole.svg" width="100%" alt="animated black hole" />
+<img src="./assets/orb.svg" width="100%" alt="animated chrome orb" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />

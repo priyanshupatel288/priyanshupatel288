@@ -23,9 +23,6 @@
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.37;0.39;0.61;0.63;1" dur="5s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- merge commit with code tag -->
-  <rect x="384" y="28" width="32" height="16" rx="8" fill="#161b22" stroke="#a78bfa" stroke-opacity="0.7"/>
-  <text x="400" y="40" text-anchor="middle" font-family="Consolas,monospace" font-size="10" font-weight="700" fill="#c084fc">&lt;/&gt;</text>
   
   <circle cx="60" cy="25" r="4.5" fill="#0d1117" stroke="#a78bfa" stroke-width="2">
     <animate attributeName="fill" values="#0d1117;#0d1117;#e9d5ff;#0d1117;#0d1117" keyTimes="0;0.055;0.075;0.155;1" dur="5s" repeatCount="indefinite"/>

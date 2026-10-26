@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Priyanshu+Patel;Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Multi-Tenant+Architecture;Hackathon+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=44&duration=1&pause=100000&color=A371F7&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Priyanshu+Patel" alt="Priyanshu Patel" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=900&height=45&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Multi-Tenant+Architecture;Hackathon+Winner" alt="Typing SVG" />
 
 **Building scalable backend systems with Java, Spring Boot and MySQL — RESTful APIs, multi-tenant architectures and secure role-based access control.**
 

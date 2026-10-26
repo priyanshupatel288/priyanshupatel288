@@ -103,12 +103,6 @@ I also have hands-on experience with **React, Next.js, Node.js, MongoDB and PHP*
 <img src="https://raw.githubusercontent.com/priyanshupatel288/priyanshupatel288/main/profile-summary-card-output/radical/0-profile-details.svg" width="100%" alt="GitHub Activity Graph" />
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=priyanshupatel288&theme=radical&no-frame=true&no-bg=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=6" alt="GitHub Trophies" />
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">

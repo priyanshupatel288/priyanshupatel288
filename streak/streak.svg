@@ -8,7 +8,7 @@
   <line x1="165" y1="28" x2="165" y2="170" stroke="#8b949e" stroke-opacity="0.6"/>
   <line x1="330" y1="28" x2="330" y2="170" stroke="#8b949e" stroke-opacity="0.6"/>
 
-  <text x="82.5" y="79" class="num" fill="#2f80ed">978</text>
+  <text x="82.5" y="79" class="num" fill="#2f80ed">983</text>
   <text x="82.5" y="115" class="lbl" fill="#2f80ed">Total Contributions</text>
   <text x="82.5" y="145" class="sub">In the last year</text>
 

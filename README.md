@@ -6,7 +6,7 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Castoro&size=42&duration=1&pause=100000&color=A371F7&center=true&vCenter=true&repeat=false&width=500&height=56&lines=I+am+Priyanshu+Patel" alt="I am Priyanshu Patel" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=900&height=45&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Multi-Tenant+Architecture;Hackathon+Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A18F5&center=true&vCenter=true&width=900&height=45&lines=Software+Development+Engineer;Java+%7C+Spring+Boot+%7C+MySQL;REST+APIs+%7C+Multi-Tenant+Architecture" alt="Typing SVG" />
 
 **Building scalable backend systems with Java, Spring Boot and MySQL — RESTful APIs, multi-tenant architectures and secure role-based access control.**
 
@@ -28,7 +28,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=WHO+AM+I%3F&repeat=false" alt="Who Am I?" />
 </div>
 
-**Software Development Engineer** with **1+ year of experience** building scalable backend systems using **Java, Spring Boot, and MySQL**. Skilled in designing **RESTful APIs**, **multi-tenant architectures**, and secure **role-based access control**, with a focus on query optimization and caching. **Hackathon winner.**
+**Software Development Engineer** with **1+ year of experience** building scalable backend systems using **Java, Spring Boot, and MySQL**. Skilled in designing **RESTful APIs**, **multi-tenant architectures**, and secure **role-based access control**, with a focus on query optimization and caching.
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

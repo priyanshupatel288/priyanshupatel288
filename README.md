@@ -44,7 +44,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=1&pause=100000&color=7A18F5&center=true&vCenter=true&width=500&lines=TECH+STACK&repeat=false" alt="Tech Stack" />
 </div>
 <br>
-<img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack — Languages: Java, SQL, JavaScript · Backend: Spring Boot, Spring Data JPA, Hibernate, REST APIs · Frontend: React, Next.js, Tailwind CSS · Databases: PostgreSQL, MySQL, Redis · DevOps: Docker, AWS, CI/CD, GitHub Actions, Nginx · Tools: Git, Postman, IntelliJ IDEA, k6 · Core Concepts: OOP, Data Structures & Algorithms, Database Design, Multi-Tenant Architecture" />
+<img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack — Languages: Java, SQL, JavaScript · Backend: Spring Boot, Spring Data JPA, Hibernate, REST APIs · Frontend: React, Next.js, Tailwind CSS · Databases: PostgreSQL, MySQL, Redis · DevOps: Docker, AWS, CI/CD, GitHub Actions, Nginx · Tools: Git, Postman, IntelliJ IDEA, k6 · Core Concepts: OOPs, Data Structures & Algorithms, Database Design, Multi-Tenant Architecture" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 

@@ -8,15 +8,15 @@
   <line x1="165" y1="28" x2="165" y2="170" stroke="#8b949e" stroke-opacity="0.6"/>
   <line x1="330" y1="28" x2="330" y2="170" stroke="#8b949e" stroke-opacity="0.6"/>
 
-  <text x="82.5" y="79" class="num" fill="#2f80ed">1,018</text>
+  <text x="82.5" y="79" class="num" fill="#2f80ed">1,052</text>
   <text x="82.5" y="115" class="lbl" fill="#2f80ed">Total Contributions</text>
   <text x="82.5" y="145" class="sub">In the last year</text>
 
   <circle cx="247.5" cy="71" r="40" fill="none" stroke="#7A18F5" stroke-width="5"/>
   <path d="M247.5 19 c4 6 8 9 8 15 a8 8 0 0 1 -16 0 c0 -4 2 -6 4 -9 c0 4 2 6 4 6 c0 -4 -2 -7 0 -12 z" fill="#7A18F5" stroke="#0d1117" stroke-width="3"/>
-  <text x="247.5" y="81" class="num" fill="#2f80ed">13</text>
+  <text x="247.5" y="81" class="num" fill="#2f80ed">14</text>
   <text x="247.5" y="138" class="lbl" fill="#7A18F5" font-weight="700">Current Streak</text>
-  <text x="247.5" y="160" class="sub">Oct 15 - Oct 27</text>
+  <text x="247.5" y="160" class="sub">Oct 15 - Oct 28</text>
 
   <text x="412.5" y="79" class="num" fill="#2f80ed">19</text>
   <text x="412.5" y="115" class="lbl" fill="#2f80ed">Longest Streak</text>
